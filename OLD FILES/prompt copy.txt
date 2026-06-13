@@ -1,9 +1,0 @@
-A minimalist, isolated ornithological watercolor study of {bird_name} painted in the style of Japanese sumi-e.
-
-Layout: The bird occupies exactly 70% of the space. The bird is dead center. Pure, empty, stark white studio background. The white background extends entirely to all edges and corners.
-
-Art style: Flat, unshaded paper cut-out aesthetic. Confident, crisp ink linework exclusively on the eyes, beak, and feet. Soft watercolor washes for the body. Earthy palette: burnt umber, ochre, indigo, vermillion, muted greens. 
-
-Composition: The bird is completely isolated and floating. Its toes are curled in a perching posture, but grasping empty white space. Zero environment, zero ground, zero props.
-
-Anatomy: Exactly two legs with both feet clearly visible at the bottom. Exactly two wings, one head, one beak, one tail. Highly accurate, diagnostic species-specific markings for {bird_name}, completely avoiding generic bird patterns. For close-relative species (multiple goldfinch, multiple jay, multiple sparrow species in the library), render the diagnostic differences clearly so the species are visibly distinguishable from each other.

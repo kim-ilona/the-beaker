@@ -1,7 +1,0 @@
-A beautiful, minimalist Japanese sumi-e watercolor painting of a male {bird_name}. 
-
-CRITICAL ANATOMY: The plumage, markings, beak shape, and coloration must be biologically exact and diagnostic for a real {bird_name}. Do not draw a generic bird. Perfectly match the specific identifying field marks of a {bird_name}. The bird is facing sideways.
-
-STYLE: Flat, unshaded paper cut-out aesthetic. Confident, crisp ink linework on the eyes, beak, and feet. Soft watercolor washes for the body. Earthy palette: burnt umber, ochre, indigo, vermillion, muted greens. 
-
-LAYOUT: Pure, stark white background. The bird occupies exactly 75% of the space. The bird is dead center. The white background extends entirely to all edges and corners. The bird is completely isolated and floating. Its toes are curled in a perching posture, but grasping empty white space. Zero environment, zero ground, zero props.
