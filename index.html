@@ -559,10 +559,12 @@ code.inline { font-size: var(--text-xs); background: var(--color-surface-2); bor
     const d = new Date(ts);
     return isNaN(d) ? '' : d.toLocaleDateString([], {month:'short',day:'numeric'});
   }
-
+  
   function renderFromData() {
-    const rows = allRows;
-    renderLog(rows); renderStats(rows); renderSpecies(rows);
+    const filtered = filterByHours(allRows);
+    renderLog(allRows);
+    renderStats(filtered);
+    renderSpecies(filtered);
   }
 
   function renderLog(rows) {

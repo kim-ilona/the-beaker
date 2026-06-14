@@ -458,3 +458,4 @@
 2026-06-14 11:20:12	Song Sparrow	75	Melospiza melodia
 2026-06-14 11:21:31	Song Sparrow	78	Melospiza melodia
 2026-06-14 11:28:14	Yellow-billed Cuckoo	74	Coccyzus americanus
+2026-06-14 11:32:12	Red-winged Blackbird	84	Agelaius phoeniceus
