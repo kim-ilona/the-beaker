@@ -665,7 +665,7 @@ code.inline { font-size: var(--text-xs); background: var(--color-surface-2); bor
         <div class="species-common">${name}</div>
         <div class="species-sci">${b.scientific}</div>
         <div class="species-best">Best: ${Math.round(b.pct)}% confidence</div>
-        <button class="species-audio-btn" onclick="playBirdAudio(this, '${slugify(name)}')">Listen</button>
+        <button class="species-audio-btn" onclick="playBirdAudio(this, '${name}')">Listen</button>
       </div>`;
     }).join('');
   }
@@ -775,7 +775,7 @@ window.playBirdAudio = function(btn, slug) {
       btn.textContent = 'No audio';
       return;
     }
-    const fileName = slug.split('_').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join('_');
+    const fileName = slug.replace(/\s+/g, '_').trim();
     const audio = new Audio(`AudioResults/${fileName}_${candidates[i]}.wav`);
     audio.play().then(() => {
       currentAudio = audio;

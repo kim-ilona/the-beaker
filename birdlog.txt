@@ -457,3 +457,6 @@
 2026-06-14 11:32:12	Red-winged Blackbird	84	Agelaius phoeniceus
 2026-06-14 12:21:10	Song Sparrow	80	Melospiza melodia
 2026-06-14 12:53:02	House Finch	79	Haemorhous mexicanus
+2026-06-14 15:57:44	Barn Swallow	65	Hirundo rustica
+2026-06-14 16:02:25	Song Sparrow	68	Melospiza melodia
+2026-06-14 16:06:30	Song Sparrow	72	Melospiza melodia
