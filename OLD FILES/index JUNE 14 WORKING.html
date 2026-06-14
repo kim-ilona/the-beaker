@@ -66,8 +66,8 @@ img, svg { display: block; max-width: 100%;}
 button { cursor: pointer; background: none; border: none; font: inherit; color: inherit; }
 a, button, [role="button"] { transition: color var(--transition-interactive), background var(--transition-interactive), opacity var(--transition-interactive); }
 :focus-visible { outline: 2px solid var(--color-primary); outline-offset: 3px; border-radius: var(--radius-sm); }
-.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border-width: 0; }  
-  
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border-width: 0; }
+
 /* ── Header ── */
 header {
   position: sticky; top: 0; z-index: 100;
@@ -106,6 +106,7 @@ header {
 .dot { width: 7px; height: 7px; border-radius: var(--radius-full); background: var(--color-text-faint); transition: background 0.4s; }
 .dot.live { background: var(--color-primary); box-shadow: 0 0 0 3px var(--color-primary-highlight); animation: pulse 2s ease-in-out infinite; }
 @keyframes pulse { 0%,100%{opacity:1}50%{opacity:0.45} }
+
 
 /* ── Main ── */
 main { color: var(--colour-surface); max-width: var(--content-default); margin:auto; margin-bottom: var(--space-40);}
@@ -381,24 +382,11 @@ code.inline { font-size: var(--text-xs); background: var(--color-surface-2); bor
 
   tbody tr { border-bottom: 1px solid #e9e9e9; }
 }
-
-  .species-audio-btn {
-    margin-top: 6px;
-    padding: 4px 10px;
-    font-size: 0.72rem;
-    border: 1px solid var(--color-border, #ddd);
-    border-radius: 20px;
-    background: transparent;
-    color: var(--color-text, #333);
-    cursor: pointer;
-    transition: background 0.15s;
-  }
-  .species-audio-btn:hover { background: rgba(0,0,0,0.06); }
-  .species-audio-btn.playing { background: #e8f5e9; border-color: #66bb6a; color: #2e7d32; }
 </style>
 </head>
 <body>
-  <a href="#main" class="sr-only">Skip to content</a>
+
+<a href="#main" class="sr-only">Skip to content</a>
 
 <header>
   <a href="#" class="logo" aria-label="The Beaker">
@@ -415,17 +403,17 @@ code.inline { font-size: var(--text-xs); background: var(--color-surface-2); bor
 <nav class="view-nav">
   <div class="view-nav-left">
     <button class="view-btn active" id="collageBtn" data-view="collage">Overview</button>
-    <button class="view-btn" id="detailedLogBtn" data-view="log">Detailed log</button>
+    <button class="view-btn" id="detailedLogBtn" data-view="log">Detailed Log</button>
   </div>
 </nav>
 <main id="main">
 
   <div id="dashboardExtras">
   <div class="filter-bar" role="group" aria-label="Time filter">
-    <button class="filter-btn active" data-hours="24">24 hours</button>
-    <button class="filter-btn" data-hours="48">48 hours</button>
-    <button class="filter-btn" data-hours="168">7 days</button>
-    <button class="filter-btn" data-hours="0">All time</button>
+    <button class="filter-btn active" data-hours="1">1H</button>
+    <button class="filter-btn" data-hours="12">12H</button>
+    <button class="filter-btn" data-hours="168">7D</button>
+    <button class="filter-btn" data-hours="0">All Time</button>
   </div>
 
   <div class="stats">
@@ -475,6 +463,7 @@ code.inline { font-size: var(--text-xs); background: var(--color-surface-2); bor
       <tbody id="logBody">
         <tr><td colspan="4">
           <div class="empty-state">
+            <svg width="48" height="48" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.2"><path d="M10 36 C10 36 18 24 28 20 C34 18 40 22 40 22 C40 22 34 17 28 14 C20 11 11 16 9 24 C7 29 10 36 10 36Z"/><path d="M28 20 C30 15 34 12 38 14"/><circle cx="33" cy="16" r="1.5" fill="currentColor"/><path d="M10 36 L5 41"/><path d="M14 38 L11 44"/></svg>
             <h3>Listening for birds…</h3>
             <p>Detections will appear here once the loop is running and birds are heard.</p>
           </div>
@@ -508,7 +497,6 @@ code.inline { font-size: var(--text-xs); background: var(--color-surface-2); bor
 </main>
 
 <script>
-  
 (function(){
   document.documentElement.setAttribute('data-theme', 'light');
 
@@ -561,7 +549,7 @@ code.inline { font-size: var(--text-xs); background: var(--color-surface-2); bor
   }
 
   function renderFromData() {
-    const rows = allRows;
+    const rows = filterByHours(allRows);
     renderLog(rows); renderStats(rows); renderSpecies(rows);
   }
 
@@ -659,7 +647,6 @@ code.inline { font-size: var(--text-xs); background: var(--color-surface-2); bor
         <div class="species-common">${name}</div>
         <div class="species-sci">${b.scientific}</div>
         <div class="species-best">Best: ${Math.round(b.pct)}% confidence</div>
-        <button class="species-audio-btn" onclick="playBirdAudio(this, '${slugify(name)}')">▶ Play call</button>
       </div>`;
     }).join('');
   }
@@ -748,43 +735,6 @@ code.inline { font-size: var(--text-xs); background: var(--color-surface-2); bor
         });
       });
   }
-
-
-let currentAudio = null;
-
-window.playBirdAudio = function(btn, slug) {
-  if (currentAudio) {
-    currentAudio.pause();
-    currentAudio = null;
-    document.querySelectorAll('.species-audio-btn.playing').forEach(b => {
-      b.classList.remove('playing');
-      b.textContent = '▶ Play call';
-    });
-  }
-
-  const candidates = Array.from({length: 36}, (_, i) => 65 + i);
-
-  function tryPlay(i) {
-    if (i >= candidates.length) {
-      btn.textContent = '✕ No audio';
-      return;
-    }
-    const fileName = slug.split('_').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join('_');
-    const audio = new Audio(`AudioResults/${fileName}_${candidates[i]}.wav`);
-    audio.play().then(() => {
-      currentAudio = audio;
-      btn.classList.add('playing');
-      btn.textContent = '⏹ Stop';
-      audio.onended = () => {
-        btn.classList.remove('playing');
-        btn.textContent = '▶ Play call';
-        currentAudio = null;
-      };
-    }).catch(() => tryPlay(i + 1));
-  }
-
-  tryPlay(0);
-}
 
   loadLog();
   let pollInterval = setInterval(loadLog, refreshRate * 1000);
