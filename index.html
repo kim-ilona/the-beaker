@@ -665,7 +665,7 @@ code.inline { font-size: var(--text-xs); background: var(--color-surface-2); bor
         <div class="species-common">${name}</div>
         <div class="species-sci">${b.scientific}</div>
         <div class="species-best">Best: ${Math.round(b.pct)}% confidence</div>
-        <button class="species-audio-btn" onclick="playBirdAudio(this, '${slugify(name)}')">&#9654; Listen</button>
+        <button class="species-audio-btn" onclick="playBirdAudio(this, '${slugify(name)}')">▶&#x25B6; Listen</button>
       </div>`;
     }).join('');
   }
@@ -764,7 +764,7 @@ window.playBirdAudio = function(btn, slug) {
     currentAudio = null;
     document.querySelectorAll('.species-audio-btn.playing').forEach(b => {
       b.classList.remove('playing');
-      b.textContent = '&#9654; Listen';
+      b.textContent = '▶&#x25B6; Listen';
     });
   }
 
@@ -780,10 +780,10 @@ window.playBirdAudio = function(btn, slug) {
     audio.play().then(() => {
       currentAudio = audio;
       btn.classList.add('playing');
-      btn.textContent = '&#9209; Stop';
+      btn.textContent = '⏹&#9209; Stop';
       audio.onended = () => {
         btn.classList.remove('playing');
-        btn.textContent = '&#9654; Listen';
+        btn.textContent = '▶&#x25B6; Listen';
         currentAudio = null;
       };
     }).catch(() => tryPlay(i + 1));
