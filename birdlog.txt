@@ -461,3 +461,4 @@
 2026-06-14 11:32:12	Red-winged Blackbird	84	Agelaius phoeniceus
 2026-06-14 12:06:16	Indigo Bunting	83	Passerina cyanea
 2026-06-14 12:08:27	Indigo Bunting	84	Passerina cyanea
+2026-06-14 12:21:10	Song Sparrow	80	Melospiza melodia
