@@ -648,3 +648,4 @@
 2026-06-16 11:40:08	House Wren	68	Troglodytes aedon
 2026-06-16 11:42:11	House Wren	71	Troglodytes aedon
 2026-06-16 11:42:11	House Wren	90	Troglodytes aedon
+2026-06-16 11:44:15	Blue Jay	75	Cyanocitta cristata
