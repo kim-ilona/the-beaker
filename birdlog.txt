@@ -618,3 +618,4 @@
 2026-06-16 09:20:31	House Wren	65	Troglodytes aedon
 2026-06-16 09:28:10	Yellow Warbler	69	Setophaga petechia
 2026-06-16 09:32:15	Scarlet Tanager	73	Piranga olivacea
+2026-06-16 09:37:22	American Redstart	79	Setophaga ruticilla
