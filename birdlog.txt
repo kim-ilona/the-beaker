@@ -681,3 +681,4 @@
 2026-06-16 12:52:39	Broad-winged Hawk	68	Buteo platypterus
 2026-06-16 13:13:38	American Redstart	74	Setophaga ruticilla
 2026-06-16 13:32:57	Song Sparrow	72	Melospiza melodia
+2026-06-16 13:46:57	House Wren	74	Troglodytes aedon
