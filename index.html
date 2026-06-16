@@ -97,16 +97,6 @@ header {
 }
 .view-nav-left { display: flex; gap: var(--space-2); }
 
-.status-dot {
-  display: flex; align-items: center; gap: var(--space-2);
-  font-size: var(--text-xs); font-weight: 500;
-  letter-spacing: 0.04em; text-transform: uppercase;
-  color: var(--color-text-muted);
-}
-.dot { width: 7px; height: 7px; border-radius: var(--radius-full); background: var(--color-text-faint); transition: background 0.4s; }
-.dot.live { background: var(--color-primary); box-shadow: 0 0 0 3px var(--color-primary-highlight); animation: pulse 2s ease-in-out infinite; }
-@keyframes pulse { 0%,100%{opacity:1}50%{opacity:0.45} }
-
 /* ── Main ── */
 main { color: var(--colour-surface); max-width: var(--content-default); margin:auto; margin-bottom: var(--space-40);}
 
@@ -409,10 +399,6 @@ code.inline { font-size: var(--text-xs); background: var(--color-surface-2); bor
     The beaker
   </a>
   <div class="header-right">
-    <div class="status-dot">
-      <span class="dot" id="statusDot"></span>
-      <span id="statusLabel">Idle</span>
-    </div>
   </div>
 </header>
 
@@ -670,10 +656,6 @@ code.inline { font-size: var(--text-xs); background: var(--color-surface-2); bor
     }).join('');
   }
 
-  function setStatus(live) {
-    document.getElementById('statusDot').className = 'dot'+(live?' live':'');
-    document.getElementById('statusLabel').textContent = live ? 'Live' : 'Idle';
-  }
 
   function loadLog() {
     fetch(logUrl+'?t='+Date.now())
@@ -791,23 +773,6 @@ window.playBirdAudio = function(btn, slug) {
 
   tryPlay(0);
 }
-
-const STATUS_URL = 'status.json';
-const STALE_SECONDS = 90;
-
-function checkStatus() {
-  fetch(STATUS_URL + '?t=' + Date.now())
-    .then(r => r.ok ? r.json() : null)
-    .then(data => {
-      if (!data) return setStatus(false);
-      const age = (Date.now() / 1000) - data.ts;
-      setStatus(data.running === true && age < STALE_SECONDS);
-    })
-    .catch(() => {});
-}
-
-checkStatus();
-setInterval(checkStatus, refreshRate * 1000);  
   
   
   loadLog();
