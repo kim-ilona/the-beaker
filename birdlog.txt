@@ -623,3 +623,5 @@
 2026-06-16 09:46:31	American Redstart	76	Setophaga ruticilla
 2026-06-16 09:46:31	American Redstart	88	Setophaga ruticilla
 2026-06-16 09:46:31	Scarlet Tanager	88	Piranga olivacea
+2026-06-16 09:47:03	American Redstart	74	Setophaga ruticilla
+2026-06-16 09:47:03	American Redstart	87	Setophaga ruticilla
