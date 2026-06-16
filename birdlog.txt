@@ -625,3 +625,5 @@
 2026-06-16 09:46:31	Scarlet Tanager	88	Piranga olivacea
 2026-06-16 09:47:03	American Redstart	74	Setophaga ruticilla
 2026-06-16 09:47:03	American Redstart	87	Setophaga ruticilla
+2026-06-16 09:47:34	Warbling Vireo	67	Vireo gilvus
+2026-06-16 09:47:34	American Redstart	80	Setophaga ruticilla
