@@ -677,3 +677,4 @@
 2026-06-16 12:36:23	American Redstart	82	Setophaga ruticilla
 2026-06-16 12:36:56	House Sparrow	65	Passer domesticus
 2026-06-16 12:38:01	House Wren	86	Troglodytes aedon
+2026-06-16 12:42:16	Yellow Warbler	69	Setophaga petechia
