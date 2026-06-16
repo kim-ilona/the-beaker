@@ -645,3 +645,4 @@
 2026-06-16 11:17:13	House Sparrow	80	Passer domesticus
 2026-06-16 11:25:21	American Redstart	75	Setophaga ruticilla
 2026-06-16 11:26:24	American Redstart	83	Setophaga ruticilla
+2026-06-16 11:40:08	House Wren	68	Troglodytes aedon
