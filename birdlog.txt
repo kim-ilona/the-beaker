@@ -749,3 +749,4 @@
 2026-06-17 11:57:27	House Sparrow	92	Passer domesticus
 2026-06-17 11:58:30	Broad-winged Hawk	88	Buteo platypterus
 2026-06-17 12:00:37	House Sparrow	85	Passer domesticus
+2026-06-17 12:01:10	House Sparrow	77	Passer domesticus
