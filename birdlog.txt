@@ -736,3 +736,4 @@
 2026-06-17 11:25:26	Yellow Warbler	73	Setophaga petechia
 2026-06-17 11:29:02	Scarlet Tanager	74	Piranga olivacea
 2026-06-17 11:38:17	Warbling Vireo	81	Vireo gilvus
+2026-06-17 11:41:10	House Sparrow	84	Passer domesticus
