@@ -791,3 +791,5 @@
 2026-06-17 14:51:23	House Finch	79	Haemorhous mexicanus
 2026-06-17 15:00:00	Northern Parula	88	Setophaga americana
 2026-06-17 15:01:03	Northern Parula	77	Setophaga americana
+2026-06-17 15:15:47	House Wren	85	Troglodytes aedon
+2026-06-17 15:15:47	House Wren	77	Troglodytes aedon
