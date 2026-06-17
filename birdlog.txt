@@ -767,3 +767,4 @@
 2026-06-17 12:55:22	American Redstart	81	Setophaga ruticilla
 2026-06-17 13:09:12	Least Flycatcher	78	Empidonax minimus
 2026-06-17 13:18:28	House Wren	72	Troglodytes aedon
+2026-06-17 13:23:07	Warbling Vireo	83	Vireo gilvus
