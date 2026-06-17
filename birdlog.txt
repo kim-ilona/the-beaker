@@ -794,3 +794,5 @@
 2026-06-17 15:15:47	House Wren	85	Troglodytes aedon
 2026-06-17 15:15:47	House Wren	77	Troglodytes aedon
 2026-06-17 15:16:19	House Wren	76	Troglodytes aedon
+2026-06-17 15:16:51	House Wren	87	Troglodytes aedon
+2026-06-17 15:16:51	House Wren	80	Troglodytes aedon
