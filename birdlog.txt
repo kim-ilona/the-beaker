@@ -822,3 +822,4 @@
 2026-06-19 09:58:35	House Wren	71	Troglodytes aedon
 2026-06-19 10:04:14	Scarlet Tanager	83	Piranga olivacea
 2026-06-19 10:06:49	Scarlet Tanager	94	Piranga olivacea
+2026-06-19 10:07:21	Song Sparrow	70	Melospiza melodia
