@@ -855,3 +855,4 @@
 2026-06-20 07:45:01	Gray Catbird	72	Dumetella carolinensis
 2026-06-20 07:51:43	Scarlet Tanager	70	Piranga olivacea
 2026-06-20 08:07:03	House Wren	82	Troglodytes aedon
+2026-06-20 08:08:37	House Wren	96	Troglodytes aedon
