@@ -1076,3 +1076,4 @@
 2026-06-21 07:52:00	House Sparrow	79	Passer domesticus
 2026-06-21 07:53:04	House Sparrow	86	Passer domesticus
 2026-06-21 07:56:45	House Sparrow	72	Passer domesticus
+2026-06-21 08:43:58	Yellow Warbler	74	Setophaga petechia
