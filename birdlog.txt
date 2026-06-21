@@ -1064,3 +1064,4 @@
 2026-06-21 05:57:44	Warbling Vireo	89	Vireo gilvus
 2026-06-21 06:01:55	Song Sparrow	93	Melospiza melodia
 2026-06-21 06:22:42	Cedar Waxwing	83	Bombycilla cedrorum
+2026-06-21 06:27:55	Hairy Woodpecker	90	Dryobates villosus
