@@ -1299,3 +1299,4 @@
 2026-06-21 13:49:32	Warbling Vireo	90	Vireo gilvus
 2026-06-21 13:53:13	Warbling Vireo	86	Vireo gilvus
 2026-06-21 13:53:13	Yellow-throated Vireo	75	Vireo flavifrons
+2026-06-21 13:57:25	House Finch	74	Haemorhous mexicanus
