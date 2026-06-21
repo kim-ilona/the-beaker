@@ -1129,3 +1129,4 @@
 2026-06-21 10:58:49	Yellow Warbler	72	Setophaga petechia
 2026-06-21 10:58:49	Warbling Vireo	76	Vireo gilvus
 2026-06-21 11:08:21	Warbling Vireo	73	Vireo gilvus
+2026-06-21 11:09:26	Canada Warbler	73	Cardellina canadensis
