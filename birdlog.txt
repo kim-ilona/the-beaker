@@ -1081,3 +1081,4 @@
 2026-06-21 08:56:43	Yellow Warbler	74	Setophaga petechia
 2026-06-21 08:58:18	House Sparrow	73	Passer domesticus
 2026-06-21 09:12:56	Warbling Vireo	72	Vireo gilvus
+2026-06-21 09:23:22	Hairy Woodpecker	72	Dryobates villosus
