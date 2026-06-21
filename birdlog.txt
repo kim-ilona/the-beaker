@@ -1066,3 +1066,4 @@
 2026-06-21 06:22:42	Cedar Waxwing	83	Bombycilla cedrorum
 2026-06-21 06:27:55	Hairy Woodpecker	90	Dryobates villosus
 2026-06-21 06:31:02	House Wren	87	Troglodytes aedon
+2026-06-21 07:00:53	Song Sparrow	75	Melospiza melodia
