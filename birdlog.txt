@@ -1088,3 +1088,4 @@
 2026-06-21 09:53:04	Warbling Vireo	95	Vireo gilvus
 2026-06-21 09:53:04	Brown-headed Cowbird	94	Molothrus ater
 2026-06-21 10:02:19	Northern Flicker	88	Colaptes auratus
+2026-06-21 10:07:01	Northern Flicker	72	Colaptes auratus
