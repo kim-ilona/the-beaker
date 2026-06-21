@@ -1393,3 +1393,5 @@
 2026-06-21 16:29:26	House Sparrow	73	Passer domesticus
 2026-06-21 16:33:12	House Sparrow	88	Passer domesticus
 2026-06-21 16:33:12	House Sparrow	85	Passer domesticus
+2026-06-21 16:33:45	House Sparrow	74	Passer domesticus
+2026-06-21 16:33:45	House Sparrow	82	Passer domesticus
