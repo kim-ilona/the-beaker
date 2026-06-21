@@ -1085,3 +1085,5 @@
 2026-06-21 09:23:55	Song Sparrow	73	Melospiza melodia
 2026-06-21 09:30:23	Warbling Vireo	88	Vireo gilvus
 2026-06-21 09:48:56	Northern Flicker	79	Colaptes auratus
+2026-06-21 09:53:04	Warbling Vireo	95	Vireo gilvus
+2026-06-21 09:53:04	Brown-headed Cowbird	94	Molothrus ater
