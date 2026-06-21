@@ -1079,3 +1079,4 @@
 2026-06-21 08:43:58	Yellow Warbler	74	Setophaga petechia
 2026-06-21 08:46:03	Song Sparrow	78	Melospiza melodia
 2026-06-21 08:56:43	Yellow Warbler	74	Setophaga petechia
+2026-06-21 08:58:18	House Sparrow	73	Passer domesticus
