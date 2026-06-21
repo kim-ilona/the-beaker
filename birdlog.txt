@@ -1133,3 +1133,6 @@
 2026-06-21 11:11:53	Warbling Vireo	73	Vireo gilvus
 2026-06-21 11:12:56	Warbling Vireo	87	Vireo gilvus
 2026-06-21 11:13:59	Warbling Vireo	91	Vireo gilvus
+2026-06-21 11:15:02	Warbling Vireo	97	Vireo gilvus
+2026-06-21 11:15:02	Warbling Vireo	91	Vireo gilvus
+2026-06-21 11:15:02	Purple Finch	97	Haemorhous purpureus
