@@ -1068,3 +1068,4 @@
 2026-06-21 06:31:02	House Wren	87	Troglodytes aedon
 2026-06-21 07:00:53	Song Sparrow	75	Melospiza melodia
 2026-06-21 07:01:26	Cedar Waxwing	95	Bombycilla cedrorum
+2026-06-21 07:33:03	Yellow Warbler	83	Setophaga petechia
