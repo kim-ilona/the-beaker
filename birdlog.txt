@@ -1984,3 +1984,4 @@
 2026-06-22 15:05:41	Northern Parula	70	Setophaga americana
 2026-06-22 15:13:56	Yellow Warbler	75	Setophaga petechia
 2026-06-22 15:14:58	Cedar Waxwing	78	Bombycilla cedrorum
+2026-06-22 15:17:34	Warbling Vireo	81	Vireo gilvus
