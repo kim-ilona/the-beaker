@@ -1743,3 +1743,4 @@
 2026-06-22 09:42:35	Rock Pigeon	93	Columba livia
 2026-06-22 09:51:59	Red-winged Blackbird	81	Agelaius phoeniceus
 2026-06-22 10:18:32	Warbling Vireo	70	Vireo gilvus
+2026-06-22 10:22:44	Chimney Swift	78	Chaetura pelagica
