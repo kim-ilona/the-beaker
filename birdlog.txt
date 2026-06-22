@@ -1719,3 +1719,4 @@
 2026-06-22 07:43:50	Warbling Vireo	80	Vireo gilvus
 2026-06-22 07:44:23	Warbling Vireo	73	Vireo gilvus
 2026-06-22 07:45:27	Warbling Vireo	75	Vireo gilvus
+2026-06-22 07:55:22	House Sparrow	76	Passer domesticus
