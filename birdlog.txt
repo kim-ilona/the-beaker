@@ -2150,3 +2150,4 @@
 2026-06-23 18:58:12	Warbling Vireo	73	Vireo gilvus
 2026-06-23 18:58:47	Warbling Vireo	83	Vireo gilvus
 2026-06-23 18:59:22	Warbling Vireo	88	Vireo gilvus
+2026-06-23 19:44:01	Downy Woodpecker	75	Dryobates pubescens
