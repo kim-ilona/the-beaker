@@ -2082,3 +2082,4 @@
 2026-06-22 18:33:14	Downy Woodpecker	97	Dryobates pubescens
 2026-06-22 18:33:14	Downy Woodpecker	70	Dryobates pubescens
 2026-06-22 18:33:49	American Redstart	83	Setophaga ruticilla
+2026-06-23 07:10:59	Warbling Vireo	84	Vireo gilvus
