@@ -2096,3 +2096,4 @@
 2026-06-23 08:46:02	Song Sparrow	72	Melospiza melodia
 2026-06-23 09:11:56	Rock Pigeon	94	Columba livia
 2026-06-23 09:24:09	Downy Woodpecker	90	Dryobates pubescens
+2026-06-23 09:52:42	Warbling Vireo	80	Vireo gilvus
