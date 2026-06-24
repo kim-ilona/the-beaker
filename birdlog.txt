@@ -2344,3 +2344,5 @@
 2026-06-24 12:37:28	Warbling Vireo	92	Vireo gilvus
 2026-06-24 12:38:41	Warbling Vireo	85	Vireo gilvus
 2026-06-24 12:39:18	European Starling	80	Sturnus vulgaris
+2026-06-24 12:41:07	Warbling Vireo	98	Vireo gilvus
+2026-06-24 12:41:07	American Redstart	79	Setophaga ruticilla
