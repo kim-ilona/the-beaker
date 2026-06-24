@@ -2219,3 +2219,4 @@
 2026-06-24 06:20:59	Warbling Vireo	96	Vireo gilvus
 2026-06-24 06:20:59	Warbling Vireo	89	Vireo gilvus
 2026-06-24 06:24:22	Warbling Vireo	86	Vireo gilvus
+2026-06-24 06:47:50	Purple Martin	79	Progne subis
