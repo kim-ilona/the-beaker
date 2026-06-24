@@ -412,7 +412,7 @@ code.inline { font-size: var(--text-xs); background: var(--color-surface-2); bor
 
   <div id="dashboardExtras">
   <div class="filter-bar" role="group" aria-label="Time filter">
-    <button class="filter-btn active" data-hours="1">1 hour</button>
+    <button class="filter-btn active" data-hours="6">6 hours</button>
     <button class="filter-btn" data-hours="24">24 hours</button>
     <button class="filter-btn" data-hours="168">7 days</button>
     <button class="filter-btn" data-hours="0">All time</button>
@@ -505,7 +505,7 @@ code.inline { font-size: var(--text-xs); background: var(--color-surface-2); bor
   const logUrl = 'birdlog.txt';
   const refreshRate = 30;
 
-  let activeHours = 1;
+  let activeHours = 6;
   document.querySelectorAll('.filter-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));

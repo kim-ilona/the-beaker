@@ -2334,3 +2334,5 @@
 2026-06-24 12:16:16	House Finch	96	Haemorhous mexicanus
 2026-06-24 12:16:51	Yellow Warbler	78	Setophaga petechia
 2026-06-24 12:21:34	Yellow Warbler	71	Setophaga petechia
+2026-06-24 12:27:30	House Finch	98	Haemorhous mexicanus
+2026-06-24 12:27:30	House Finch	80	Haemorhous mexicanus
