@@ -2286,3 +2286,4 @@
 2026-06-24 09:47:33	House Finch	97	Haemorhous mexicanus
 2026-06-24 09:47:33	House Finch	82	Haemorhous mexicanus
 2026-06-24 09:57:42	Cedar Waxwing	71	Bombycilla cedrorum
+2026-06-24 09:58:19	Northern Cardinal	89	Cardinalis cardinalis
