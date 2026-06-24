@@ -2471,3 +2471,4 @@
 2026-06-24 19:31:32	American Redstart	76	Setophaga ruticilla
 2026-06-24 19:37:35	Common Grackle	80	Quiscalus quiscula
 2026-06-24 19:39:14	Common Grackle	71	Quiscalus quiscula
+2026-06-24 19:45:16	Northern Cardinal	82	Cardinalis cardinalis
