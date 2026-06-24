@@ -2472,3 +2472,4 @@
 2026-06-24 19:37:35	Common Grackle	80	Quiscalus quiscula
 2026-06-24 19:39:14	Common Grackle	71	Quiscalus quiscula
 2026-06-24 19:45:16	Northern Cardinal	82	Cardinalis cardinalis
+2026-06-24 19:55:42	House Finch	72	Haemorhous mexicanus
