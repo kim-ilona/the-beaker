@@ -2292,3 +2292,6 @@
 2026-06-24 10:14:08	Warbling Vireo	75	Vireo gilvus
 2026-06-24 10:34:24	Warbling Vireo	89	Vireo gilvus
 2026-06-24 10:36:40	Warbling Vireo	74	Vireo gilvus
+2026-06-24 10:37:15	Warbling Vireo	78	Vireo gilvus
+2026-06-24 10:37:15	Yellow Warbler	74	Setophaga petechia
+2026-06-24 10:37:15	Yellow Warbler	73	Setophaga petechia
