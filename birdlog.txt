@@ -2682,3 +2682,4 @@
 2026-06-25 18:30:46	Warbling Vireo	77	Vireo gilvus
 2026-06-25 18:40:50	Warbling Vireo	83	Vireo gilvus
 2026-06-25 18:40:50	Warbling Vireo	81	Vireo gilvus
+2026-06-25 18:41:58	Rock Pigeon	83	Columba livia
