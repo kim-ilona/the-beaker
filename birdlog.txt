@@ -2638,3 +2638,5 @@
 2026-06-25 14:23:49	Common Grackle	91	Quiscalus quiscula
 2026-06-25 14:23:49	Common Grackle	84	Quiscalus quiscula
 2026-06-25 14:24:23	Common Grackle	73	Quiscalus quiscula
+2026-06-25 14:26:35	Common Grackle	77	Quiscalus quiscula
+2026-06-25 14:26:35	Common Grackle	75	Quiscalus quiscula
