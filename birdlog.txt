@@ -2547,3 +2547,4 @@
 2026-06-25 06:48:27	American Redstart	82	Setophaga ruticilla
 2026-06-25 06:49:02	Golden-crowned Kinglet	89	Regulus satrapa
 2026-06-25 06:49:02	Golden-crowned Kinglet	86	Regulus satrapa
+2026-06-25 06:52:20	Warbling Vireo	78	Vireo gilvus
