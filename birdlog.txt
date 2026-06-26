@@ -2804,3 +2804,4 @@
 2026-06-26 07:51:58	Northern Cardinal	76	Cardinalis cardinalis
 2026-06-26 08:05:58	House Finch	71	Haemorhous mexicanus
 2026-06-26 08:09:19	Warbling Vireo	86	Vireo gilvus
+2026-06-26 08:12:40	Song Sparrow	72	Melospiza melodia
