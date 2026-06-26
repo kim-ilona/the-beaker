@@ -2785,3 +2785,4 @@
 2026-06-26 06:57:46	American Redstart	94	Setophaga ruticilla
 2026-06-26 07:10:07	Chimney Swift	80	Chaetura pelagica
 2026-06-26 07:12:23	European Starling	82	Sturnus vulgaris
+2026-06-26 07:15:13	Song Sparrow	76	Melospiza melodia
