@@ -2721,3 +2721,4 @@
 2026-06-25 20:02:53	Baltimore Oriole	71	Icterus galbula
 2026-06-25 21:08:02	White-breasted Nuthatch	81	Sitta carolinensis
 2026-06-25 22:21:54	Black-crowned Night-Heron	95	Nycticorax nycticorax
+2026-06-25 22:25:21	Killdeer	78	Charadrius vociferus
