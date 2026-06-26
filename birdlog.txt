@@ -2724,3 +2724,4 @@
 2026-06-25 22:25:21	Killdeer	78	Charadrius vociferus
 2026-06-25 22:29:22	Cedar Waxwing	80	Bombycilla cedrorum
 2026-06-25 22:51:07	Black-crowned Night-Heron	92	Nycticorax nycticorax
+2026-06-26 03:33:46	Black-crowned Night-Heron	98	Nycticorax nycticorax
