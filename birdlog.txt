@@ -2786,3 +2786,4 @@
 2026-06-26 07:10:07	Chimney Swift	80	Chaetura pelagica
 2026-06-26 07:12:23	European Starling	82	Sturnus vulgaris
 2026-06-26 07:15:13	Song Sparrow	76	Melospiza melodia
+2026-06-26 07:15:48	Warbling Vireo	77	Vireo gilvus
