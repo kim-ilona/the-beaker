@@ -2888,3 +2888,4 @@
 2026-06-26 19:14:50	Warbling Vireo	75	Vireo gilvus
 2026-06-26 19:19:21	House Finch	72	Haemorhous mexicanus
 2026-06-26 19:19:21	House Finch	86	Haemorhous mexicanus
+2026-06-26 19:45:12	American Redstart	94	Setophaga ruticilla
