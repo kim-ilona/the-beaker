@@ -3069,3 +3069,4 @@
 2026-06-27 12:55:24	Warbling Vireo	84	Vireo gilvus
 2026-06-27 13:19:10	Cedar Waxwing	74	Bombycilla cedrorum
 2026-06-27 13:29:22	Red-breasted Nuthatch	73	Sitta canadensis
+2026-06-27 13:40:07	Downy Woodpecker	89	Dryobates pubescens
