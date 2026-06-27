@@ -3128,3 +3128,4 @@
 2026-06-27 19:04:40	Rock Pigeon	81	Columba livia
 2026-06-27 19:06:23	Downy Woodpecker	83	Dryobates pubescens
 2026-06-27 19:07:32	Downy Woodpecker	96	Dryobates pubescens
+2026-06-27 19:25:03	House Finch	77	Haemorhous mexicanus
