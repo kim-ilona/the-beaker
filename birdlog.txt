@@ -2896,3 +2896,5 @@
 2026-06-26 21:47:50	Black-crowned Night-Heron	83	Nycticorax nycticorax
 2026-06-27 02:40:33	Eastern Bluebird	75	Sialia sialis
 2026-06-27 05:22:14	Warbling Vireo	76	Vireo gilvus
+2026-06-27 05:33:53	Warbling Vireo	85	Vireo gilvus
+2026-06-27 05:33:53	Warbling Vireo	94	Vireo gilvus
