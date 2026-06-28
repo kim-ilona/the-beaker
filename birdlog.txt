@@ -3484,3 +3484,4 @@
 2026-06-28 16:05:10	Warbling Vireo	87	Vireo gilvus
 2026-06-28 16:17:31	House Sparrow	75	Passer domesticus
 2026-06-28 16:27:36	Gray Catbird	74	Dumetella carolinensis
+2026-06-28 16:29:51	Cedar Waxwing	90	Bombycilla cedrorum
