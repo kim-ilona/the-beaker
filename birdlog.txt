@@ -3515,3 +3515,7 @@
 2026-06-28 19:25:52	Warbling Vireo	85	Vireo gilvus
 2026-06-28 19:27:33	Warbling Vireo	77	Vireo gilvus
 2026-06-28 19:46:31	House Finch	83	Haemorhous mexicanus
+2026-06-28 19:54:21	House Sparrow	80	Passer domesticus
+2026-06-28 19:54:21	House Sparrow	79	Passer domesticus
+2026-06-28 19:54:21	House Sparrow	83	Passer domesticus
+2026-06-28 19:54:21	House Sparrow	79	Passer domesticus
