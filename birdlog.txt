@@ -3372,3 +3372,5 @@
 2026-06-28 09:29:17	Warbling Vireo	89	Vireo gilvus
 2026-06-28 09:29:17	Warbling Vireo	88	Vireo gilvus
 2026-06-28 09:30:56	Warbling Vireo	85	Vireo gilvus
+2026-06-28 09:31:31	Warbling Vireo	96	Vireo gilvus
+2026-06-28 09:31:31	House Finch	94	Haemorhous mexicanus
