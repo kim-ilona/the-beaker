@@ -3135,3 +3135,4 @@
 2026-06-27 19:35:49	Black-crowned Night-Heron	73	Nycticorax nycticorax
 2026-06-27 19:35:49	Black-crowned Night-Heron	91	Nycticorax nycticorax
 2026-06-27 20:16:56	Downy Woodpecker	96	Dryobates pubescens
+2026-06-27 20:34:44	American Redstart	83	Setophaga ruticilla
