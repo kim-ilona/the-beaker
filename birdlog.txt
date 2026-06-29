@@ -3717,3 +3717,4 @@
 2026-06-29 17:22:10	Warbling Vireo	89	Vireo gilvus
 2026-06-29 17:44:09	American Robin	71	Turdus migratorius
 2026-06-29 18:15:27	Song Sparrow	72	Melospiza melodia
+2026-06-29 19:16:27	Rock Pigeon	93	Columba livia
