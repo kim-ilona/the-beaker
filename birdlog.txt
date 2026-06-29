@@ -3525,3 +3525,4 @@
 2026-06-28 20:28:39	Common Raven	75	Corvus corax
 2026-06-28 20:30:52	Downy Woodpecker	85	Dryobates pubescens
 2026-06-28 20:30:52	American Goldfinch	77	Spinus tristis
+2026-06-28 21:02:20	American Redstart	73	Setophaga ruticilla
