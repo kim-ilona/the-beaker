@@ -3896,3 +3896,4 @@
 2026-06-30 19:07:03	Northern Parula	70	Setophaga americana
 2026-06-30 19:13:51	Northern Parula	73	Setophaga americana
 2026-06-30 19:22:23	Downy Woodpecker	78	Dryobates pubescens
+2026-06-30 19:22:59	Northern Parula	76	Setophaga americana
