@@ -3882,3 +3882,5 @@
 2026-06-30 17:05:54	Northern Parula	71	Setophaga americana
 2026-06-30 17:11:29	Northern Parula	71	Setophaga americana
 2026-06-30 17:17:25	Northern Parula	78	Setophaga americana
+2026-06-30 18:06:27	Cedar Waxwing	91	Bombycilla cedrorum
+2026-06-30 18:06:27	Cedar Waxwing	92	Bombycilla cedrorum
