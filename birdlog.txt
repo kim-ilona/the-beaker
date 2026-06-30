@@ -3729,3 +3729,5 @@
 2026-06-29 20:13:18	Northern Parula	77	Setophaga americana
 2026-06-29 20:17:18	American Redstart	92	Setophaga ruticilla
 2026-06-29 20:18:27	American Redstart	94	Setophaga ruticilla
+2026-06-29 20:32:36	American Redstart	76	Setophaga ruticilla
+2026-06-29 20:32:36	American Redstart	74	Setophaga ruticilla
