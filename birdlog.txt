@@ -3886,3 +3886,5 @@
 2026-06-30 18:06:27	Cedar Waxwing	92	Bombycilla cedrorum
 2026-06-30 18:11:34	Northern Parula	78	Setophaga americana
 2026-06-30 18:25:11	Cedar Waxwing	80	Bombycilla cedrorum
+2026-06-30 18:36:36	House Sparrow	78	Passer domesticus
+2026-06-30 18:36:36	House Sparrow	81	Passer domesticus
