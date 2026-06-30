@@ -3891,3 +3891,4 @@
 2026-06-30 18:38:21	House Sparrow	85	Passer domesticus
 2026-06-30 18:41:14	Northern Parula	74	Setophaga americana
 2026-06-30 18:43:33	House Sparrow	89	Passer domesticus
+2026-06-30 18:51:36	American Redstart	78	Setophaga ruticilla
