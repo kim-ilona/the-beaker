@@ -3905,3 +3905,4 @@
 2026-06-30 19:44:47	House Sparrow	74	Passer domesticus
 2026-06-30 19:45:57	Northern Parula	87	Setophaga americana
 2026-06-30 19:48:50	Song Sparrow	92	Melospiza melodia
+2026-06-30 19:51:09	American Redstart	78	Setophaga ruticilla
