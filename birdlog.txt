@@ -3881,3 +3881,4 @@
 2026-06-30 16:59:40	Song Sparrow	75	Melospiza melodia
 2026-06-30 17:05:54	Northern Parula	71	Setophaga americana
 2026-06-30 17:11:29	Northern Parula	71	Setophaga americana
+2026-06-30 17:17:25	Northern Parula	78	Setophaga americana
