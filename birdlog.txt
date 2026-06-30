@@ -3895,3 +3895,4 @@
 2026-06-30 18:52:47	Song Sparrow	84	Melospiza melodia
 2026-06-30 19:07:03	Northern Parula	70	Setophaga americana
 2026-06-30 19:13:51	Northern Parula	73	Setophaga americana
+2026-06-30 19:22:23	Downy Woodpecker	78	Dryobates pubescens
