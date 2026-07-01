@@ -3924,3 +3924,4 @@
 2026-06-30 20:50:25	House Sparrow	73	Passer domesticus
 2026-06-30 20:51:34	House Sparrow	75	Passer domesticus
 2026-06-30 20:54:57	House Sparrow	80	Passer domesticus
+2026-06-30 20:59:58	Northern Parula	87	Setophaga americana
