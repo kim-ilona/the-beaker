@@ -4170,3 +4170,4 @@
 2026-07-01 10:19:53	American Redstart	85	Setophaga ruticilla
 2026-07-01 10:20:59	Cedar Waxwing	76	Bombycilla cedrorum
 2026-07-01 10:22:39	American Redstart	71	Setophaga ruticilla
+2026-07-01 10:28:42	Warbling Vireo	79	Vireo gilvus
