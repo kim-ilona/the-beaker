@@ -4286,3 +4286,4 @@
 2026-07-01 16:40:23	Downy Woodpecker	87	Dryobates pubescens
 2026-07-01 16:45:44	House Finch	85	Haemorhous mexicanus
 2026-07-01 16:47:56	Cedar Waxwing	83	Bombycilla cedrorum
+2026-07-01 16:52:25	House Sparrow	71	Passer domesticus
