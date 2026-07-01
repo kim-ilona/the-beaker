@@ -4284,3 +4284,4 @@
 2026-07-01 16:27:50	American Redstart	81	Setophaga ruticilla
 2026-07-01 16:38:15	American Redstart	73	Setophaga ruticilla
 2026-07-01 16:40:23	Downy Woodpecker	87	Dryobates pubescens
+2026-07-01 16:45:44	House Finch	85	Haemorhous mexicanus
