@@ -3930,3 +3930,4 @@
 2026-06-30 21:04:26	House Sparrow	72	Passer domesticus
 2026-06-30 21:08:54	House Sparrow	76	Passer domesticus
 2026-06-30 21:47:44	Broad-winged Hawk	83	Buteo platypterus
+2026-07-01 04:45:58	Black-crowned Night-Heron	90	Nycticorax nycticorax
