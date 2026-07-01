@@ -4104,3 +4104,4 @@
 2026-07-01 08:39:05	American Redstart	83	Setophaga ruticilla
 2026-07-01 08:39:05	Eastern Phoebe	83	Sayornis phoebe
 2026-07-01 08:40:13	American Redstart	72	Setophaga ruticilla
+2026-07-01 08:41:20	American Redstart	75	Setophaga ruticilla
