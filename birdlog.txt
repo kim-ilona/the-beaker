@@ -4575,3 +4575,5 @@
 2026-07-02 15:53:08	Northern Parula	85	Setophaga americana
 2026-07-02 15:54:50	Northern Parula	75	Setophaga americana
 2026-07-02 16:03:52	Northern Parula	86	Setophaga americana
+2026-07-02 16:27:25	House Finch	98	Haemorhous mexicanus
+2026-07-02 16:27:25	House Finch	83	Haemorhous mexicanus
