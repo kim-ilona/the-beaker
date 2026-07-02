@@ -4561,3 +4561,4 @@
 2026-07-02 13:54:30	American Redstart	74	Setophaga ruticilla
 2026-07-02 13:56:11	Alder Flycatcher	99	Empidonax alnorum
 2026-07-02 14:00:41	Northern Parula	84	Setophaga americana
+2026-07-02 14:14:03	Song Sparrow	71	Melospiza melodia
