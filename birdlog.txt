@@ -4591,3 +4591,4 @@
 2026-07-02 18:15:51	American Redstart	90	Setophaga ruticilla
 2026-07-02 18:15:51	American Redstart	83	Setophaga ruticilla
 2026-07-02 18:35:16	Gray Catbird	76	Dumetella carolinensis
+2026-07-02 19:08:31	House Finch	97	Haemorhous mexicanus
