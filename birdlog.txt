@@ -4503,3 +4503,4 @@
 2026-07-02 10:30:28	Hairy Woodpecker	75	Dryobates villosus
 2026-07-02 10:31:35	American Redstart	84	Setophaga ruticilla
 2026-07-02 10:32:11	American Redstart	86	Setophaga ruticilla
+2026-07-02 10:32:46	Eastern Phoebe	81	Sayornis phoebe
