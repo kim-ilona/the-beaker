@@ -4572,3 +4572,4 @@
 2026-07-02 15:07:10	House Finch	85	Haemorhous mexicanus
 2026-07-02 15:12:47	Warbling Vireo	76	Vireo gilvus
 2026-07-02 15:17:18	Song Sparrow	84	Melospiza melodia
+2026-07-02 15:53:08	Northern Parula	85	Setophaga americana
