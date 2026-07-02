@@ -4515,3 +4515,4 @@
 2026-07-02 11:19:30	American Redstart	72	Setophaga ruticilla
 2026-07-02 11:22:50	Warbling Vireo	86	Vireo gilvus
 2026-07-02 11:27:53	House Finch	82	Haemorhous mexicanus
+2026-07-02 11:32:22	Greater Yellowlegs	78	Tringa melanoleuca
