@@ -4586,3 +4586,4 @@
 2026-07-02 17:39:04	Northern Cardinal	86	Cardinalis cardinalis
 2026-07-02 17:39:04	Northern Cardinal	77	Cardinalis cardinalis
 2026-07-02 17:52:38	Blue-gray Gnatcatcher	84	Polioptila caerulea
+2026-07-02 18:02:19	Song Sparrow	88	Melospiza melodia
