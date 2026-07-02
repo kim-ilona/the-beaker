@@ -4316,3 +4316,4 @@
 2026-07-01 20:24:14	Northern Cardinal	80	Cardinalis cardinalis
 2026-07-01 20:24:14	Northern Cardinal	90	Cardinalis cardinalis
 2026-07-01 20:24:14	Northern Cardinal	73	Cardinalis cardinalis
+2026-07-01 20:31:28	Eastern Phoebe	98	Sayornis phoebe
