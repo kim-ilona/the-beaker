@@ -4319,3 +4319,4 @@
 2026-07-01 20:31:28	Eastern Phoebe	98	Sayornis phoebe
 2026-07-01 20:33:58	Northern Cardinal	72	Cardinalis cardinalis
 2026-07-01 21:02:21	Gray Catbird	80	Dumetella carolinensis
+2026-07-01 21:06:45	American Redstart	76	Setophaga ruticilla
