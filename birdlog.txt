@@ -4563,3 +4563,4 @@
 2026-07-02 14:00:41	Northern Parula	84	Setophaga americana
 2026-07-02 14:14:03	Song Sparrow	71	Melospiza melodia
 2026-07-02 14:16:18	Northern Parula	75	Setophaga americana
+2026-07-02 14:26:23	Warbling Vireo	74	Vireo gilvus
