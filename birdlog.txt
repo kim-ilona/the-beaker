@@ -4542,3 +4542,4 @@
 2026-07-02 12:58:23	House Finch	72	Haemorhous mexicanus
 2026-07-02 12:58:58	House Finch	96	Haemorhous mexicanus
 2026-07-02 13:05:08	Eastern Bluebird	76	Sialia sialis
+2026-07-02 13:07:58	House Finch	85	Haemorhous mexicanus
