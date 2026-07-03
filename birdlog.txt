@@ -4763,3 +4763,5 @@
 2026-07-03 12:33:55	Song Sparrow	73	Melospiza melodia
 2026-07-03 12:35:39	American Redstart	76	Setophaga ruticilla
 2026-07-03 12:36:16	American Redstart	83	Setophaga ruticilla
+2026-07-03 12:36:51	American Redstart	83	Setophaga ruticilla
+2026-07-03 12:36:51	American Redstart	72	Setophaga ruticilla
