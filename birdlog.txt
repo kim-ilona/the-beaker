@@ -4818,3 +4818,4 @@
 2026-07-03 16:34:20	American Redstart	93	Setophaga ruticilla
 2026-07-03 16:37:42	American Redstart	70	Setophaga ruticilla
 2026-07-03 16:42:04	Warbling Vireo	73	Vireo gilvus
+2026-07-03 16:47:55	Song Sparrow	71	Melospiza melodia
