@@ -4836,3 +4836,4 @@
 2026-07-03 19:18:33	Northern Parula	76	Setophaga americana
 2026-07-03 19:30:40	American Redstart	75	Setophaga ruticilla
 2026-07-03 19:33:51	Northern Parula	76	Setophaga americana
+2026-07-03 19:53:23	Song Sparrow	82	Melospiza melodia
