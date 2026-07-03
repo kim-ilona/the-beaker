@@ -4612,3 +4612,6 @@
 2026-07-02 21:13:56	American Redstart	74	Setophaga ruticilla
 2026-07-02 21:21:28	Northern Cardinal	82	Cardinalis cardinalis
 2026-07-02 21:22:39	Northern Cardinal	71	Cardinalis cardinalis
+2026-07-03 03:39:03	Black-crowned Night-Heron	76	Nycticorax nycticorax
+2026-07-03 03:39:03	Black-crowned Night-Heron	95	Nycticorax nycticorax
+2026-07-03 03:39:03	Black-crowned Night-Heron	76	Nycticorax nycticorax
