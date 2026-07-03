@@ -4753,3 +4753,4 @@
 2026-07-03 11:14:53	Common Grackle	79	Quiscalus quiscula
 2026-07-03 11:16:01	Common Grackle	70	Quiscalus quiscula
 2026-07-03 11:18:50	Common Grackle	79	Quiscalus quiscula
+2026-07-03 11:37:35	Eastern Wood-Pewee	77	Contopus virens
