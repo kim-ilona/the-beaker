@@ -4769,3 +4769,6 @@
 2026-07-03 12:45:23	American Redstart	97	Setophaga ruticilla
 2026-07-03 12:48:14	American Redstart	87	Setophaga ruticilla
 2026-07-03 12:48:14	American Redstart	86	Setophaga ruticilla
+2026-07-03 12:49:57	House Finch	93	Haemorhous mexicanus
+2026-07-03 12:49:57	House Finch	88	Haemorhous mexicanus
+2026-07-03 12:49:57	House Finch	78	Haemorhous mexicanus
