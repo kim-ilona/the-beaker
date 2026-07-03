@@ -4834,3 +4834,4 @@
 2026-07-03 18:47:58	Northern Parula	75	Setophaga americana
 2026-07-03 18:53:11	Northern Cardinal	72	Cardinalis cardinalis
 2026-07-03 19:18:33	Northern Parula	76	Setophaga americana
+2026-07-03 19:30:40	American Redstart	75	Setophaga ruticilla
