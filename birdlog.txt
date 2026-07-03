@@ -4736,3 +4736,4 @@
 2026-07-03 09:54:14	Yellow Warbler	79	Setophaga petechia
 2026-07-03 09:56:30	American Redstart	81	Setophaga ruticilla
 2026-07-03 10:11:09	House Wren	73	Troglodytes aedon
+2026-07-03 10:17:21	House Finch	91	Haemorhous mexicanus
