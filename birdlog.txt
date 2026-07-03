@@ -4755,3 +4755,4 @@
 2026-07-03 11:18:50	Common Grackle	79	Quiscalus quiscula
 2026-07-03 11:37:35	Eastern Wood-Pewee	77	Contopus virens
 2026-07-03 11:38:58	Warbling Vireo	82	Vireo gilvus
+2026-07-03 11:43:54	House Finch	96	Haemorhous mexicanus
