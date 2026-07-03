@@ -4810,3 +4810,4 @@
 2026-07-03 16:13:43	Northern Cardinal	82	Cardinalis cardinalis
 2026-07-03 16:13:43	Northern Cardinal	96	Cardinalis cardinalis
 2026-07-03 16:14:19	Eastern Towhee	72	Pipilo erythrophthalmus
+2026-07-03 16:18:16	American Redstart	74	Setophaga ruticilla
