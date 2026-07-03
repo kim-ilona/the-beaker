@@ -4739,3 +4739,4 @@
 2026-07-03 10:17:21	House Finch	91	Haemorhous mexicanus
 2026-07-03 10:21:53	Downy Woodpecker	83	Dryobates pubescens
 2026-07-03 10:23:02	Eastern Wood-Pewee	82	Contopus virens
+2026-07-03 10:25:53	House Finch	82	Haemorhous mexicanus
