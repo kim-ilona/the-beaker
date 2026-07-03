@@ -4783,3 +4783,4 @@
 2026-07-03 13:01:13	Eastern Wood-Pewee	88	Contopus virens
 2026-07-03 13:01:55	Eastern Wood-Pewee	82	Contopus virens
 2026-07-03 13:02:35	Eastern Wood-Pewee	74	Contopus virens
+2026-07-03 13:06:25	Warbling Vireo	83	Vireo gilvus
