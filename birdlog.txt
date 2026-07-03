@@ -4679,3 +4679,4 @@
 2026-07-03 07:24:35	American Redstart	70	Setophaga ruticilla
 2026-07-03 07:25:10	American Redstart	73	Setophaga ruticilla
 2026-07-03 07:26:18	American Redstart	74	Setophaga ruticilla
+2026-07-03 07:33:05	Eastern Wood-Pewee	71	Contopus virens
