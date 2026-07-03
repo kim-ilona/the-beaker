@@ -4623,3 +4623,4 @@
 2026-07-03 05:04:56	Black-crowned Night-Heron	98	Nycticorax nycticorax
 2026-07-03 05:22:31	House Wren	77	Troglodytes aedon
 2026-07-03 05:27:38	Northern Cardinal	70	Cardinalis cardinalis
+2026-07-03 05:43:30	American Redstart	80	Setophaga ruticilla
