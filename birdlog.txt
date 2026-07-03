@@ -4804,3 +4804,4 @@
 2026-07-03 14:12:10	House Finch	87	Haemorhous mexicanus
 2026-07-03 14:13:21	House Finch	87	Haemorhous mexicanus
 2026-07-03 14:48:31	Northern Parula	71	Setophaga americana
+2026-07-03 14:55:43	American Redstart	70	Setophaga ruticilla
