@@ -4780,3 +4780,4 @@
 2026-07-03 12:54:34	Eastern Wood-Pewee	70	Contopus virens
 2026-07-03 12:55:51	Eastern Wood-Pewee	76	Contopus virens
 2026-07-03 12:58:21	Hairy Woodpecker	82	Dryobates villosus
+2026-07-03 13:01:13	Eastern Wood-Pewee	88	Contopus virens
