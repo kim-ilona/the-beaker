@@ -4774,3 +4774,5 @@
 2026-07-03 12:49:57	House Finch	78	Haemorhous mexicanus
 2026-07-03 12:50:33	House Finch	91	Haemorhous mexicanus
 2026-07-03 12:50:33	House Finch	88	Haemorhous mexicanus
+2026-07-03 12:53:24	Eastern Wood-Pewee	74	Contopus virens
+2026-07-03 12:53:24	American Redstart	93	Setophaga ruticilla
