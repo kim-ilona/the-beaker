@@ -4602,3 +4602,4 @@
 2026-07-02 19:46:54	Cedar Waxwing	90	Bombycilla cedrorum
 2026-07-02 20:05:28	Northern Parula	77	Setophaga americana
 2026-07-02 20:11:40	Northern Cardinal	94	Cardinalis cardinalis
+2026-07-02 20:36:45	American Redstart	70	Setophaga ruticilla
