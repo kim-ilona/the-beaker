@@ -4825,3 +4825,4 @@
 2026-07-03 18:12:27	Northern Parula	87	Setophaga americana
 2026-07-03 18:12:27	Northern Parula	86	Setophaga americana
 2026-07-03 18:19:12	Northern Parula	74	Setophaga americana
+2026-07-03 18:26:31	American Goldfinch	75	Spinus tristis
