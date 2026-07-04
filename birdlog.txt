@@ -4899,3 +4899,6 @@
 2026-07-04 09:31:15	American Redstart	72	Setophaga ruticilla
 2026-07-04 09:31:47	Northern Cardinal	92	Cardinalis cardinalis
 2026-07-04 09:32:19	Northern Cardinal	84	Cardinalis cardinalis
+2026-07-04 09:32:51	Northern Cardinal	90	Cardinalis cardinalis
+2026-07-04 09:34:59	Downy Woodpecker	85	Dryobates pubescens
+2026-07-04 09:35:34	Warbling Vireo	87	Vireo gilvus
