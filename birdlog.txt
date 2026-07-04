@@ -4882,3 +4882,4 @@
 2026-07-04 06:46:36	Scarlet Tanager	75	Piranga olivacea
 2026-07-04 06:55:30	Common Grackle	73	Quiscalus quiscula
 2026-07-04 07:08:06	Gray Catbird	73	Dumetella carolinensis
+2026-07-04 07:16:25	Northern Parula	80	Setophaga americana
