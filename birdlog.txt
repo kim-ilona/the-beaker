@@ -4986,3 +4986,4 @@
 2026-07-04 17:52:10	Northern Parula	80	Setophaga americana
 2026-07-04 17:53:13	Northern Parula	73	Setophaga americana
 2026-07-04 17:57:23	American Goldfinch	86	Spinus tristis
+2026-07-04 17:57:23	American Redstart	87	Setophaga ruticilla
