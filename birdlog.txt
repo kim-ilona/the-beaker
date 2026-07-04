@@ -4850,3 +4850,5 @@
 2026-07-04 02:52:34	Black-crowned Night-Heron	88	Nycticorax nycticorax
 2026-07-04 04:33:15	American Robin	93	Turdus migratorius
 2026-07-04 05:06:12	American Robin	71	Turdus migratorius
+2026-07-04 05:09:52	Northern Cardinal	86	Cardinalis cardinalis
+2026-07-04 05:09:52	Northern Cardinal	73	Cardinalis cardinalis
