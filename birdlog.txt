@@ -4917,3 +4917,4 @@
 2026-07-04 10:52:33	American Redstart	93	Setophaga ruticilla
 2026-07-04 10:55:45	Northern Parula	85	Setophaga americana
 2026-07-04 11:00:31	Warbling Vireo	79	Vireo gilvus
+2026-07-04 11:02:40	American Goldfinch	78	Spinus tristis
