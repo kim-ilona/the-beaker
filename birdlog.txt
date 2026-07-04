@@ -4896,3 +4896,6 @@
 2026-07-04 08:45:43	Northern Cardinal	91	Cardinalis cardinalis
 2026-07-04 09:04:36	Hairy Woodpecker	81	Dryobates villosus
 2026-07-04 09:17:01	American Redstart	70	Setophaga ruticilla
+2026-07-04 09:31:15	American Redstart	72	Setophaga ruticilla
+2026-07-04 09:31:47	Northern Cardinal	92	Cardinalis cardinalis
+2026-07-04 09:32:19	Northern Cardinal	84	Cardinalis cardinalis
