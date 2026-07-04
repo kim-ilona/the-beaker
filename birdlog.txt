@@ -4962,3 +4962,4 @@
 2026-07-04 13:02:41	House Finch	90	Haemorhous mexicanus
 2026-07-04 13:02:41	House Finch	76	Haemorhous mexicanus
 2026-07-04 13:21:57	American Redstart	80	Setophaga ruticilla
+2026-07-04 14:17:14	Northern Cardinal	71	Cardinalis cardinalis
