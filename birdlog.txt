@@ -4841,3 +4841,4 @@
 2026-07-03 20:17:42	Hairy Woodpecker	85	Dryobates villosus
 2026-07-03 20:24:03	Black-crowned Night-Heron	89	Nycticorax nycticorax
 2026-07-03 20:28:50	American Redstart	75	Setophaga ruticilla
+2026-07-03 20:39:49	Northern Parula	72	Setophaga americana
