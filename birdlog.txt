@@ -4973,3 +4973,4 @@
 2026-07-04 16:31:59	Northern Parula	71	Setophaga americana
 2026-07-04 16:34:04	Northern Parula	72	Setophaga americana
 2026-07-04 16:36:41	Northern Parula	73	Setophaga americana
+2026-07-04 16:37:13	Northern Parula	90	Setophaga americana
