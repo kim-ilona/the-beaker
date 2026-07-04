@@ -4930,3 +4930,4 @@
 2026-07-04 11:23:11	American Redstart	83	Setophaga ruticilla
 2026-07-04 11:23:51	American Redstart	74	Setophaga ruticilla
 2026-07-04 11:40:54	American Redstart	71	Setophaga ruticilla
+2026-07-04 11:55:48	Northern Cardinal	72	Cardinalis cardinalis
