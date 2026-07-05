@@ -5373,3 +5373,4 @@
 2026-07-05 13:22:30	American Goldfinch	80	Spinus tristis
 2026-07-05 13:22:30	American Goldfinch	98	Spinus tristis
 2026-07-05 13:24:35	Song Sparrow	92	Melospiza melodia
+2026-07-05 13:31:19	American Redstart	77	Setophaga ruticilla
