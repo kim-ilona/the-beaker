@@ -5458,3 +5458,4 @@
 2026-07-05 18:00:22	Northern Parula	74	Setophaga americana
 2026-07-05 18:11:13	American Redstart	90	Setophaga ruticilla
 2026-07-05 18:31:57	Downy Woodpecker	89	Dryobates pubescens
+2026-07-05 18:37:41	Purple Martin	72	Progne subis
