@@ -5148,3 +5148,4 @@
 2026-07-05 07:10:32	Willow Flycatcher	75	Empidonax traillii
 2026-07-05 07:12:35	Alder Flycatcher	73	Empidonax alnorum
 2026-07-05 07:13:08	Gray Catbird	80	Dumetella carolinensis
+2026-07-05 07:17:44	Downy Woodpecker	74	Dryobates pubescens
