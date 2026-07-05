@@ -5037,3 +5037,4 @@
 2026-07-05 01:44:09	Rock Pigeon	98	Columba livia
 2026-07-05 03:08:34	Black-crowned Night-Heron	75	Nycticorax nycticorax
 2026-07-05 03:08:34	Black-crowned Night-Heron	86	Nycticorax nycticorax
+2026-07-05 05:04:30	Northern Cardinal	72	Cardinalis cardinalis
