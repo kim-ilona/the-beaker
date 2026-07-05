@@ -5022,3 +5022,4 @@
 2026-07-04 20:31:54	American Robin	86	Turdus migratorius
 2026-07-04 20:34:31	Northern Cardinal	76	Cardinalis cardinalis
 2026-07-04 20:35:02	Downy Woodpecker	78	Dryobates pubescens
+2026-07-04 20:35:34	Yellow-throated Vireo	82	Vireo flavifrons
