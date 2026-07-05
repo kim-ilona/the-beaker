@@ -5370,3 +5370,5 @@
 2026-07-05 13:21:24	American Goldfinch	93	Spinus tristis
 2026-07-05 13:21:24	American Goldfinch	97	Spinus tristis
 2026-07-05 13:21:58	American Goldfinch	75	Spinus tristis
+2026-07-05 13:22:30	American Goldfinch	80	Spinus tristis
+2026-07-05 13:22:30	American Goldfinch	98	Spinus tristis
