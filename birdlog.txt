@@ -5450,3 +5450,4 @@
 2026-07-05 17:31:11	American Redstart	90	Setophaga ruticilla
 2026-07-05 17:44:11	Pileated Woodpecker	80	Dryocopus pileatus
 2026-07-05 17:54:35	House Finch	87	Haemorhous mexicanus
+2026-07-05 17:55:08	House Finch	96	Haemorhous mexicanus
