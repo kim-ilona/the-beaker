@@ -5013,3 +5013,4 @@
 2026-07-04 19:36:51	American Redstart	84	Setophaga ruticilla
 2026-07-04 19:37:23	American Redstart	84	Setophaga ruticilla
 2026-07-04 19:54:34	Cedar Waxwing	77	Bombycilla cedrorum
+2026-07-04 20:00:47	American Redstart	90	Setophaga ruticilla
