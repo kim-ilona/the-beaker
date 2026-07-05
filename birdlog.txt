@@ -5418,3 +5418,4 @@
 2026-07-05 15:36:07	American Goldfinch	87	Spinus tristis
 2026-07-05 15:36:41	American Goldfinch	86	Spinus tristis
 2026-07-05 15:40:50	Northern Parula	75	Setophaga americana
+2026-07-05 15:41:22	Rock Pigeon	84	Columba livia
