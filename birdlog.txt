@@ -5020,3 +5020,5 @@
 2026-07-04 20:16:50	American Redstart	88	Setophaga ruticilla
 2026-07-04 20:25:08	Northern Parula	87	Setophaga americana
 2026-07-04 20:31:54	American Robin	86	Turdus migratorius
+2026-07-04 20:34:31	Northern Cardinal	76	Cardinalis cardinalis
+2026-07-04 20:35:02	Downy Woodpecker	78	Dryobates pubescens
