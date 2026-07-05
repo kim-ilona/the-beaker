@@ -5076,3 +5076,4 @@
 2026-07-05 06:09:22	American Redstart	75	Setophaga ruticilla
 2026-07-05 06:09:55	American Redstart	73	Setophaga ruticilla
 2026-07-05 06:10:27	American Redstart	90	Setophaga ruticilla
+2026-07-05 06:10:27	American Redstart	89	Setophaga ruticilla
