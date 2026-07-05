@@ -5425,3 +5425,4 @@
 2026-07-05 16:15:35	American Robin	78	Turdus migratorius
 2026-07-05 16:16:08	American Robin	92	Turdus migratorius
 2026-07-05 16:17:42	Purple Martin	79	Progne subis
+2026-07-05 16:19:16	Northern Cardinal	79	Cardinalis cardinalis
