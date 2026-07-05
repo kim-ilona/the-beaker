@@ -5035,3 +5035,4 @@
 2026-07-04 23:49:29	Rock Pigeon	70	Columba livia
 2026-07-05 00:48:06	Cedar Waxwing	85	Bombycilla cedrorum
 2026-07-05 01:44:09	Rock Pigeon	98	Columba livia
+2026-07-05 03:08:34	Black-crowned Night-Heron	75	Nycticorax nycticorax
