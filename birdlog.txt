@@ -5456,3 +5456,4 @@
 2026-07-05 17:56:13	House Finch	99	Haemorhous mexicanus
 2026-07-05 17:57:46	Purple Martin	71	Progne subis
 2026-07-05 18:00:22	Northern Parula	74	Setophaga americana
+2026-07-05 18:11:13	American Redstart	90	Setophaga ruticilla
