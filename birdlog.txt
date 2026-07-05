@@ -5325,3 +5325,4 @@
 2026-07-05 12:21:12	Northern Cardinal	80	Cardinalis cardinalis
 2026-07-05 12:22:38	Warbling Vireo	75	Vireo gilvus
 2026-07-05 12:22:38	Warbling Vireo	72	Vireo gilvus
+2026-07-05 12:23:38	American Redstart	72	Setophaga ruticilla
