@@ -5448,3 +5448,4 @@
 2026-07-05 17:18:15	American Redstart	77	Setophaga ruticilla
 2026-07-05 17:18:47	American Redstart	81	Setophaga ruticilla
 2026-07-05 17:31:11	American Redstart	90	Setophaga ruticilla
+2026-07-05 17:44:11	Pileated Woodpecker	80	Dryocopus pileatus
