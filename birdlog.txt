@@ -5490,3 +5490,4 @@
 2026-07-05 19:59:26	Northern Parula	74	Setophaga americana
 2026-07-05 20:01:03	Northern Parula	74	Setophaga americana
 2026-07-05 20:06:20	American Redstart	72	Setophaga ruticilla
+2026-07-05 20:07:56	Blackburnian Warbler	82	Setophaga fusca
