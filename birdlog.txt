@@ -5598,3 +5598,4 @@
 2026-07-06 06:36:31	American Redstart	76	Setophaga ruticilla
 2026-07-06 06:36:31	American Redstart	72	Setophaga ruticilla
 2026-07-06 06:41:47	American Redstart	89	Setophaga ruticilla
+2026-07-06 06:41:47	Belted Kingfisher	99	Megaceryle alcyon
