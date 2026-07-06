@@ -5667,3 +5667,4 @@
 2026-07-06 09:19:55	American Redstart	73	Setophaga ruticilla
 2026-07-06 09:20:59	American Redstart	74	Setophaga ruticilla
 2026-07-06 09:36:03	Northern Parula	70	Setophaga americana
+2026-07-06 09:38:10	Warbling Vireo	72	Vireo gilvus
