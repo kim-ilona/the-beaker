@@ -5529,3 +5529,4 @@
 2026-07-05 21:54:58	Northern Rough-winged Swallow	76	Stelgidopteryx serripennis
 2026-07-05 22:56:49	Rock Pigeon	80	Columba livia
 2026-07-05 23:00:30	Caspian Tern	83	Hydroprogne caspia
+2026-07-06 05:00:45	Northern Cardinal	90	Cardinalis cardinalis
