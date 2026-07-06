@@ -5806,3 +5806,4 @@
 2026-07-06 19:49:08	American Robin	74	Turdus migratorius
 2026-07-06 19:49:08	American Robin	80	Turdus migratorius
 2026-07-06 19:53:59	American Redstart	73	Setophaga ruticilla
+2026-07-06 19:59:16	Northern Parula	76	Setophaga americana
