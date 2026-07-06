@@ -5513,3 +5513,4 @@
 2026-07-05 21:08:43	Northern Cardinal	93	Cardinalis cardinalis
 2026-07-05 21:09:14	Northern Cardinal	83	Cardinalis cardinalis
 2026-07-05 21:09:14	Northern Cardinal	73	Cardinalis cardinalis
+2026-07-05 21:09:48	Song Sparrow	76	Melospiza melodia
