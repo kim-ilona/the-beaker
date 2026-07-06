@@ -5791,3 +5791,4 @@
 2026-07-06 17:56:50	House Finch	71	Haemorhous mexicanus
 2026-07-06 17:57:54	Warbling Vireo	92	Vireo gilvus
 2026-07-06 18:26:20	House Finch	82	Haemorhous mexicanus
+2026-07-06 18:42:11	Downy Woodpecker	71	Dryobates pubescens
