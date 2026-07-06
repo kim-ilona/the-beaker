@@ -5526,3 +5526,4 @@
 2026-07-05 21:16:39	Northern Cardinal	94	Cardinalis cardinalis
 2026-07-05 21:18:45	Northern Cardinal	72	Cardinalis cardinalis
 2026-07-05 21:20:19	Northern Cardinal	71	Cardinalis cardinalis
+2026-07-05 21:54:58	Northern Rough-winged Swallow	76	Stelgidopteryx serripennis
