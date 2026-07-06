@@ -5778,3 +5778,5 @@
 2026-07-06 16:28:20	Song Sparrow	85	Melospiza melodia
 2026-07-06 16:52:20	Cedar Waxwing	93	Bombycilla cedrorum
 2026-07-06 17:08:08	Warbling Vireo	95	Vireo gilvus
+2026-07-06 17:08:41	Warbling Vireo	80	Vireo gilvus
+2026-07-06 17:08:41	Warbling Vireo	89	Vireo gilvus
