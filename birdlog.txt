@@ -6055,3 +6055,4 @@
 2026-07-07 16:36:45	American Robin	74	Turdus migratorius
 2026-07-07 16:45:47	Downy Woodpecker	92	Dryobates pubescens
 2026-07-07 16:53:43	American Robin	84	Turdus migratorius
+2026-07-07 16:54:48	Belted Kingfisher	91	Megaceryle alcyon
