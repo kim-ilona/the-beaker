@@ -5853,3 +5853,5 @@
 2026-07-07 06:10:23	American Robin	88	Turdus migratorius
 2026-07-07 06:12:58	Warbling Vireo	82	Vireo gilvus
 2026-07-07 06:14:32	Warbling Vireo	74	Vireo gilvus
+2026-07-07 06:17:08	American Redstart	84	Setophaga ruticilla
+2026-07-07 06:18:09	House Wren	82	Troglodytes aedon
