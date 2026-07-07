@@ -5985,3 +5985,4 @@
 2026-07-07 11:20:01	Warbling Vireo	87	Vireo gilvus
 2026-07-07 11:31:32	American Goldfinch	93	Spinus tristis
 2026-07-07 11:31:32	American Goldfinch	84	Spinus tristis
+2026-07-07 11:34:11	American Redstart	72	Setophaga ruticilla
