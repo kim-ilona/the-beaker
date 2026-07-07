@@ -5867,3 +5867,4 @@
 2026-07-07 06:34:17	House Wren	77	Troglodytes aedon
 2026-07-07 06:36:52	House Wren	79	Troglodytes aedon
 2026-07-07 06:38:26	House Wren	73	Troglodytes aedon
+2026-07-07 06:42:04	Downy Woodpecker	82	Dryobates pubescens
