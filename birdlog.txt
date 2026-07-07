@@ -5832,3 +5832,4 @@
 2026-07-07 04:12:22	Black-crowned Night-Heron	92	Nycticorax nycticorax
 2026-07-07 05:24:27	Northern Cardinal	72	Cardinalis cardinalis
 2026-07-07 05:26:32	House Wren	71	Troglodytes aedon
+2026-07-07 05:29:08	Warbling Vireo	94	Vireo gilvus
