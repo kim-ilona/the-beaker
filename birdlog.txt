@@ -5928,3 +5928,4 @@
 2026-07-07 07:53:42	American Redstart	95	Setophaga ruticilla
 2026-07-07 07:53:42	American Redstart	72	Setophaga ruticilla
 2026-07-07 07:54:46	American Redstart	90	Setophaga ruticilla
+2026-07-07 07:55:20	Common Raven	78	Corvus corax
