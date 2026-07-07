@@ -5948,3 +5948,4 @@
 2026-07-07 08:33:16	American Redstart	85	Setophaga ruticilla
 2026-07-07 08:34:20	American Redstart	73	Setophaga ruticilla
 2026-07-07 08:34:53	House Finch	78	Haemorhous mexicanus
+2026-07-07 08:37:27	Warbling Vireo	81	Vireo gilvus
