@@ -5898,3 +5898,4 @@
 2026-07-07 07:18:21	American Redstart	75	Setophaga ruticilla
 2026-07-07 07:18:54	American Redstart	92	Setophaga ruticilla
 2026-07-07 07:21:29	American Redstart	87	Setophaga ruticilla
+2026-07-07 07:22:02	Warbling Vireo	94	Vireo gilvus
