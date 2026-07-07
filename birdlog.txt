@@ -6007,3 +6007,4 @@
 2026-07-07 12:21:35	House Sparrow	92	Passer domesticus
 2026-07-07 12:26:19	Northern Parula	82	Setophaga americana
 2026-07-07 12:29:28	Cedar Waxwing	75	Bombycilla cedrorum
+2026-07-07 12:37:20	Warbling Vireo	89	Vireo gilvus
