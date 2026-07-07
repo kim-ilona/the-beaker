@@ -5830,3 +5830,4 @@
 2026-07-06 23:07:04	Black-crowned Night-Heron	91	Nycticorax nycticorax
 2026-07-07 04:12:22	Black-crowned Night-Heron	85	Nycticorax nycticorax
 2026-07-07 04:12:22	Black-crowned Night-Heron	92	Nycticorax nycticorax
+2026-07-07 05:24:27	Northern Cardinal	72	Cardinalis cardinalis
