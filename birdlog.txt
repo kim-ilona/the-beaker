@@ -5903,3 +5903,4 @@
 2026-07-07 07:26:13	House Wren	75	Troglodytes aedon
 2026-07-07 07:26:13	House Wren	89	Troglodytes aedon
 2026-07-07 07:27:18	House Wren	75	Troglodytes aedon
+2026-07-07 07:29:54	American Redstart	75	Setophaga ruticilla
