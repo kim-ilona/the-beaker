@@ -6073,3 +6073,4 @@
 2026-07-07 18:54:22	American Robin	83	Turdus migratorius
 2026-07-07 19:14:31	Cedar Waxwing	80	Bombycilla cedrorum
 2026-07-07 19:27:32	Downy Woodpecker	92	Dryobates pubescens
+2026-07-07 19:38:51	American Redstart	75	Setophaga ruticilla
