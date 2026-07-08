@@ -6244,3 +6244,4 @@
 2026-07-08 11:28:56	House Finch	84	Haemorhous mexicanus
 2026-07-08 11:28:56	House Finch	82	Haemorhous mexicanus
 2026-07-08 11:40:24	Warbling Vireo	71	Vireo gilvus
+2026-07-08 11:51:21	Northern Cardinal	76	Cardinalis cardinalis
