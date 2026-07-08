@@ -6203,3 +6203,4 @@
 2026-07-08 08:50:43	American Goldfinch	86	Spinus tristis
 2026-07-08 08:51:20	American Goldfinch	93	Spinus tristis
 2026-07-08 08:51:52	American Goldfinch	74	Spinus tristis
+2026-07-08 08:57:00	Downy Woodpecker	81	Dryobates pubescens
