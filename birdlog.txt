@@ -6291,3 +6291,4 @@
 2026-07-08 16:59:12	House Finch	75	Haemorhous mexicanus
 2026-07-08 17:00:19	House Finch	82	Haemorhous mexicanus
 2026-07-08 17:03:33	American Crow	74	Corvus brachyrhynchos
+2026-07-08 17:04:38	Northern Cardinal	74	Cardinalis cardinalis
