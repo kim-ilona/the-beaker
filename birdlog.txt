@@ -6074,3 +6074,4 @@
 2026-07-07 19:14:31	Cedar Waxwing	80	Bombycilla cedrorum
 2026-07-07 19:27:32	Downy Woodpecker	92	Dryobates pubescens
 2026-07-07 19:38:51	American Redstart	75	Setophaga ruticilla
+2026-07-07 20:10:14	Gray Catbird	78	Dumetella carolinensis
