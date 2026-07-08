@@ -6188,3 +6188,4 @@
 2026-07-08 08:36:25	Warbling Vireo	89	Vireo gilvus
 2026-07-08 08:37:03	Warbling Vireo	83	Vireo gilvus
 2026-07-08 08:37:03	Warbling Vireo	80	Vireo gilvus
+2026-07-08 08:37:03	Northern Parula	89	Setophaga americana
