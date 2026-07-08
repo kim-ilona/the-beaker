@@ -6199,3 +6199,4 @@
 2026-07-08 08:42:58	Northern Parula	82	Setophaga americana
 2026-07-08 08:48:08	House Wren	79	Troglodytes aedon
 2026-07-08 08:50:43	House Wren	79	Troglodytes aedon
+2026-07-08 08:50:43	American Goldfinch	97	Spinus tristis
