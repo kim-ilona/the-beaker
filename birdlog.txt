@@ -6277,3 +6277,4 @@
 2026-07-08 15:16:18	Mallard	79	Anas platyrhynchos
 2026-07-08 15:16:52	American Goldfinch	70	Spinus tristis
 2026-07-08 15:52:01	Warbling Vireo	81	Vireo gilvus
+2026-07-08 15:58:54	Northern Cardinal	81	Cardinalis cardinalis
