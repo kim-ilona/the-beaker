@@ -6084,3 +6084,4 @@
 2026-07-08 02:00:53	Broad-winged Hawk	75	Buteo platypterus
 2026-07-08 03:07:48	Mallard	74	Anas platyrhynchos
 2026-07-08 05:04:04	Black-crowned Night-Heron	88	Nycticorax nycticorax
+2026-07-08 05:09:21	Northern Cardinal	72	Cardinalis cardinalis
