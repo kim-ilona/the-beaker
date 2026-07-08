@@ -6249,3 +6249,4 @@
 2026-07-08 12:29:16	Cedar Waxwing	91	Bombycilla cedrorum
 2026-07-08 12:32:56	Common Grackle	76	Quiscalus quiscula
 2026-07-08 12:37:39	Common Grackle	81	Quiscalus quiscula
+2026-07-08 12:43:56	American Goldfinch	95	Spinus tristis
