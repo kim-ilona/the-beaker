@@ -6078,3 +6078,4 @@
 2026-07-07 20:12:20	American Robin	88	Turdus migratorius
 2026-07-07 20:14:58	Rock Pigeon	94	Columba livia
 2026-07-07 21:15:44	Song Sparrow	83	Melospiza melodia
+2026-07-08 00:06:37	Black-crowned Night-Heron	85	Nycticorax nycticorax
