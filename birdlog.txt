@@ -6105,3 +6105,4 @@
 2026-07-08 06:01:26	House Finch	97	Haemorhous mexicanus
 2026-07-08 06:01:26	House Finch	93	Haemorhous mexicanus
 2026-07-08 06:02:03	House Wren	75	Troglodytes aedon
+2026-07-08 06:03:07	Warbling Vireo	77	Vireo gilvus
