@@ -6294,3 +6294,4 @@
 2026-07-08 17:04:38	Northern Cardinal	74	Cardinalis cardinalis
 2026-07-08 17:19:27	Song Sparrow	86	Melospiza melodia
 2026-07-08 17:28:56	Cedar Waxwing	74	Bombycilla cedrorum
+2026-07-08 17:31:33	Downy Woodpecker	96	Dryobates pubescens
