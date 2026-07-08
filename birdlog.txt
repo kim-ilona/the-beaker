@@ -6303,3 +6303,4 @@
 2026-07-08 18:05:06	House Sparrow	77	Passer domesticus
 2026-07-08 18:25:15	American Robin	76	Turdus migratorius
 2026-07-08 18:27:24	American Robin	73	Turdus migratorius
+2026-07-08 18:29:01	Cedar Waxwing	73	Bombycilla cedrorum
