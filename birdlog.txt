@@ -6272,3 +6272,4 @@
 2026-07-08 14:57:43	American Goldfinch	92	Spinus tristis
 2026-07-08 14:58:18	American Goldfinch	80	Spinus tristis
 2026-07-08 15:00:26	Cedar Waxwing	73	Bombycilla cedrorum
+2026-07-08 15:06:48	Downy Woodpecker	92	Dryobates pubescens
