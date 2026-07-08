@@ -6309,3 +6309,4 @@
 2026-07-08 18:35:35	Downy Woodpecker	93	Dryobates pubescens
 2026-07-08 18:53:20	Northern Parula	71	Setophaga americana
 2026-07-08 18:54:59	American Redstart	87	Setophaga ruticilla
+2026-07-08 18:58:14	American Redstart	78	Setophaga ruticilla
