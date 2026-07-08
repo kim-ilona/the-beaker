@@ -6231,3 +6231,4 @@
 2026-07-08 10:10:22	House Wren	76	Troglodytes aedon
 2026-07-08 10:17:10	House Finch	95	Haemorhous mexicanus
 2026-07-08 10:22:57	American Redstart	72	Setophaga ruticilla
+2026-07-08 10:35:04	Northern Parula	79	Setophaga americana
