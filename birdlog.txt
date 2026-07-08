@@ -6274,3 +6274,4 @@
 2026-07-08 15:00:26	Cedar Waxwing	73	Bombycilla cedrorum
 2026-07-08 15:06:48	Downy Woodpecker	92	Dryobates pubescens
 2026-07-08 15:09:58	Cliff Swallow	74	Petrochelidon pyrrhonota
+2026-07-08 15:16:18	Mallard	79	Anas platyrhynchos
