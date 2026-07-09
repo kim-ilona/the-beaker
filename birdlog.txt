@@ -6546,3 +6546,4 @@
 2026-07-09 13:52:31	House Finch	85	Haemorhous mexicanus
 2026-07-09 14:11:01	Great Crested Flycatcher	70	Myiarchus crinitus
 2026-07-09 14:16:49	Northern Cardinal	73	Cardinalis cardinalis
+2026-07-09 15:41:40	Sandhill Crane	74	Antigone canadensis
