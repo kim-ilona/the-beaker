@@ -6399,3 +6399,4 @@
 2026-07-09 07:00:36	Warbling Vireo	74	Vireo gilvus
 2026-07-09 07:01:41	Warbling Vireo	75	Vireo gilvus
 2026-07-09 07:02:14	Warbling Vireo	82	Vireo gilvus
+2026-07-09 07:03:18	Greater Yellowlegs	72	Tringa melanoleuca
