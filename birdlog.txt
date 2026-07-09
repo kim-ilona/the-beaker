@@ -6485,3 +6485,4 @@
 2026-07-09 09:18:31	House Wren	77	Troglodytes aedon
 2026-07-09 09:31:36	American Redstart	77	Setophaga ruticilla
 2026-07-09 09:43:42	Northern Cardinal	74	Cardinalis cardinalis
+2026-07-09 09:48:27	Downy Woodpecker	86	Dryobates pubescens
