@@ -6550,3 +6550,5 @@
 2026-07-09 16:42:25	Northern Cardinal	72	Cardinalis cardinalis
 2026-07-09 17:04:31	House Wren	70	Troglodytes aedon
 2026-07-09 17:19:51	Downy Woodpecker	90	Dryobates pubescens
+2026-07-09 17:37:32	Song Sparrow	70	Melospiza melodia
+2026-07-09 17:48:51	American Goldfinch	81	Spinus tristis
