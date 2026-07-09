@@ -6549,3 +6549,4 @@
 2026-07-09 15:41:40	Sandhill Crane	74	Antigone canadensis
 2026-07-09 16:42:25	Northern Cardinal	72	Cardinalis cardinalis
 2026-07-09 17:04:31	House Wren	70	Troglodytes aedon
+2026-07-09 17:19:51	Downy Woodpecker	90	Dryobates pubescens
