@@ -6657,3 +6657,4 @@
 2026-07-10 08:53:11	House Wren	73	Troglodytes aedon
 2026-07-10 08:53:11	House Wren	85	Troglodytes aedon
 2026-07-10 08:56:54	Barn Swallow	79	Hirundo rustica
+2026-07-10 09:03:43	American Redstart	78	Setophaga ruticilla
