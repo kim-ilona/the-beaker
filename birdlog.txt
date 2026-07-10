@@ -6631,3 +6631,4 @@
 2026-07-10 07:30:55	House Wren	70	Troglodytes aedon
 2026-07-10 07:30:55	American Redstart	87	Setophaga ruticilla
 2026-07-10 07:38:16	House Wren	76	Troglodytes aedon
+2026-07-10 07:40:23	Northern Cardinal	79	Cardinalis cardinalis
