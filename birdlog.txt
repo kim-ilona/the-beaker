@@ -6750,3 +6750,5 @@
 2026-07-10 11:51:43	American Goldfinch	72	Spinus tristis
 2026-07-10 11:51:43	American Goldfinch	89	Spinus tristis
 2026-07-10 11:57:06	Northern Parula	75	Setophaga americana
+2026-07-10 11:58:44	House Wren	78	Troglodytes aedon
+2026-07-10 12:10:23	Warbling Vireo	90	Vireo gilvus
