@@ -6666,3 +6666,4 @@
 2026-07-10 09:09:38	House Wren	77	Troglodytes aedon
 2026-07-10 09:10:12	House Wren	83	Troglodytes aedon
 2026-07-10 09:10:12	House Wren	78	Troglodytes aedon
+2026-07-10 09:14:28	Song Sparrow	75	Melospiza melodia
