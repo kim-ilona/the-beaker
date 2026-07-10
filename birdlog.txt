@@ -6565,3 +6565,4 @@
 2026-07-09 19:50:09	American Robin	78	Turdus migratorius
 2026-07-09 20:03:05	Northern Cardinal	87	Cardinalis cardinalis
 2026-07-09 20:53:39	Song Sparrow	70	Melospiza melodia
+2026-07-09 22:38:53	Rock Pigeon	87	Columba livia
