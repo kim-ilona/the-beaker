@@ -6546,7 +6546,6 @@
 2026-07-09 13:52:31	House Finch	85	Haemorhous mexicanus
 2026-07-09 14:11:01	Great Crested Flycatcher	70	Myiarchus crinitus
 2026-07-09 14:16:49	Northern Cardinal	73	Cardinalis cardinalis
-2026-07-09 15:41:40	Sandhill Crane	74	Antigone canadensis
 2026-07-09 16:42:25	Northern Cardinal	72	Cardinalis cardinalis
 2026-07-09 17:04:31	House Wren	70	Troglodytes aedon
 2026-07-09 17:19:51	Downy Woodpecker	90	Dryobates pubescens
@@ -6565,3 +6564,4 @@
 2026-07-09 19:09:01	American Goldfinch	71	Spinus tristis
 2026-07-09 19:50:09	American Robin	78	Turdus migratorius
 2026-07-09 20:03:05	Northern Cardinal	87	Cardinalis cardinalis
+2026-07-09 20:53:39	Song Sparrow	70	Melospiza melodia
