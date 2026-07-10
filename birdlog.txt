@@ -6794,3 +6794,4 @@
 2026-07-10 13:59:14	American Goldfinch	92	Spinus tristis
 2026-07-10 14:07:40	Barn Swallow	79	Hirundo rustica
 2026-07-10 14:10:19	Common Grackle	77	Quiscalus quiscula
+2026-07-10 14:14:32	Northern Cardinal	85	Cardinalis cardinalis
