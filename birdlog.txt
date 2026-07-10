@@ -6690,3 +6690,4 @@
 2026-07-10 09:38:15	House Wren	77	Troglodytes aedon
 2026-07-10 09:42:31	House Wren	91	Troglodytes aedon
 2026-07-10 09:52:04	House Wren	85	Troglodytes aedon
+2026-07-10 09:54:44	Warbling Vireo	95	Vireo gilvus
