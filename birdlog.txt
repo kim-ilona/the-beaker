@@ -6814,3 +6814,4 @@
 2026-07-10 17:06:13	Song Sparrow	96	Melospiza melodia
 2026-07-10 17:12:04	American Goldfinch	85	Spinus tristis
 2026-07-10 17:29:08	Downy Woodpecker	80	Dryobates pubescens
+2026-07-10 17:36:05	Downy Woodpecker	86	Dryobates pubescens
