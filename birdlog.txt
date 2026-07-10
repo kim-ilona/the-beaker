@@ -6810,3 +6810,4 @@
 2026-07-10 16:27:42	Eastern Phoebe	74	Sayornis phoebe
 2026-07-10 16:54:02	Downy Woodpecker	83	Dryobates pubescens
 2026-07-10 17:04:35	Song Sparrow	87	Melospiza melodia
+2026-07-10 17:05:09	House Wren	79	Troglodytes aedon
