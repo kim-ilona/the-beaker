@@ -6759,3 +6759,4 @@
 2026-07-10 13:14:05	Red-breasted Nuthatch	96	Sitta canadensis
 2026-07-10 13:16:46	American Goldfinch	79	Spinus tristis
 2026-07-10 13:16:46	American Goldfinch	75	Spinus tristis
+2026-07-10 13:16:46	American Goldfinch	87	Spinus tristis
