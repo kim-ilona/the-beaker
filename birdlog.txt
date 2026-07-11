@@ -7164,3 +7164,4 @@
 2026-07-11 15:29:29	Downy Woodpecker	95	Dryobates pubescens
 2026-07-11 15:38:35	Song Sparrow	77	Melospiza melodia
 2026-07-11 16:01:22	Northern Cardinal	75	Cardinalis cardinalis
+2026-07-11 16:08:52	American Goldfinch	82	Spinus tristis
