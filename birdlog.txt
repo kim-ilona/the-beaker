@@ -6829,3 +6829,4 @@
 2026-07-10 23:48:40	Cedar Waxwing	78	Bombycilla cedrorum
 2026-07-11 04:06:34	Killdeer	93	Charadrius vociferus
 2026-07-11 04:06:34	Killdeer	77	Charadrius vociferus
+2026-07-11 05:03:08	Northern Cardinal	91	Cardinalis cardinalis
