@@ -7041,3 +7041,4 @@
 2026-07-11 09:45:38	House Wren	89	Troglodytes aedon
 2026-07-11 09:46:10	House Wren	93	Troglodytes aedon
 2026-07-11 09:47:46	Killdeer	72	Charadrius vociferus
+2026-07-11 09:47:46	American Goldfinch	72	Spinus tristis
