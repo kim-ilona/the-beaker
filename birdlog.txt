@@ -7137,3 +7137,4 @@
 2026-07-11 12:57:30	House Wren	79	Troglodytes aedon
 2026-07-11 12:58:04	House Wren	95	Troglodytes aedon
 2026-07-11 12:58:37	House Wren	74	Troglodytes aedon
+2026-07-11 13:14:34	American Goldfinch	73	Spinus tristis
