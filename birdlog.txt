@@ -7306,3 +7306,4 @@
 2026-07-12 07:15:28	House Wren	75	Troglodytes aedon
 2026-07-12 07:16:32	American Goldfinch	88	Spinus tristis
 2026-07-12 07:17:37	American Goldfinch	75	Spinus tristis
+2026-07-12 07:19:13	Warbling Vireo	95	Vireo gilvus
