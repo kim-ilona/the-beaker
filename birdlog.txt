@@ -7192,3 +7192,4 @@
 2026-07-11 20:38:01	American Goldfinch	77	Spinus tristis
 2026-07-11 20:39:37	American Goldfinch	89	Spinus tristis
 2026-07-11 20:48:07	Cedar Waxwing	73	Bombycilla cedrorum
+2026-07-11 21:23:25	Black-crowned Night-Heron	85	Nycticorax nycticorax
