@@ -7379,3 +7379,4 @@
 2026-07-12 09:17:11	Song Sparrow	74	Melospiza melodia
 2026-07-12 09:20:54	Song Sparrow	73	Melospiza melodia
 2026-07-12 09:29:51	Song Sparrow	84	Melospiza melodia
+2026-07-12 09:30:24	Downy Woodpecker	94	Dryobates pubescens
