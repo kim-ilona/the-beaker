@@ -7525,3 +7525,4 @@
 2026-07-12 17:54:15	Downy Woodpecker	92	Dryobates pubescens
 2026-07-12 17:55:20	American Robin	72	Turdus migratorius
 2026-07-12 17:58:01	House Wren	74	Troglodytes aedon
+2026-07-12 17:58:35	Common Grackle	76	Quiscalus quiscula
