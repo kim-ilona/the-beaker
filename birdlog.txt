@@ -7280,3 +7280,5 @@
 2026-07-12 06:29:30	Warbling Vireo	90	Vireo gilvus
 2026-07-12 06:29:30	Warbling Vireo	86	Vireo gilvus
 2026-07-12 06:32:11	American Goldfinch	99	Spinus tristis
+2026-07-12 06:32:45	American Goldfinch	87	Spinus tristis
+2026-07-12 06:33:16	American Goldfinch	72	Spinus tristis
