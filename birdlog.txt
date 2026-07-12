@@ -7392,3 +7392,5 @@
 2026-07-12 09:50:28	House Wren	81	Troglodytes aedon
 2026-07-12 09:51:01	House Wren	71	Troglodytes aedon
 2026-07-12 09:52:05	House Wren	73	Troglodytes aedon
+2026-07-12 09:53:10	House Wren	87	Troglodytes aedon
+2026-07-12 09:54:13	Song Sparrow	74	Melospiza melodia
