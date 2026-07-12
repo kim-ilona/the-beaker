@@ -7485,3 +7485,4 @@
 2026-07-12 14:17:53	House Finch	79	Haemorhous mexicanus
 2026-07-12 14:17:53	House Finch	82	Haemorhous mexicanus
 2026-07-12 14:21:08	Downy Woodpecker	96	Dryobates pubescens
+2026-07-12 14:22:45	Northern Cardinal	88	Cardinalis cardinalis
