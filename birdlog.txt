@@ -7542,3 +7542,4 @@
 2026-07-12 19:42:04	Northern Cardinal	83	Cardinalis cardinalis
 2026-07-12 19:42:37	Northern Cardinal	81	Cardinalis cardinalis
 2026-07-12 19:46:19	Song Sparrow	83	Melospiza melodia
+2026-07-12 19:57:14	Belted Kingfisher	89	Megaceryle alcyon
