@@ -7538,3 +7538,4 @@
 2026-07-12 19:03:31	Downy Woodpecker	79	Dryobates pubescens
 2026-07-12 19:09:24	American Robin	70	Turdus migratorius
 2026-07-12 19:12:05	House Wren	72	Troglodytes aedon
+2026-07-12 19:41:31	Northern Cardinal	78	Cardinalis cardinalis
