@@ -7343,3 +7343,4 @@
 2026-07-12 08:23:55	House Wren	78	Troglodytes aedon
 2026-07-12 08:25:02	House Wren	81	Troglodytes aedon
 2026-07-12 08:25:35	House Sparrow	76	Passer domesticus
+2026-07-12 08:25:35	Downy Woodpecker	91	Dryobates pubescens
