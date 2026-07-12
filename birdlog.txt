@@ -7474,3 +7474,4 @@
 2026-07-12 12:26:18	Warbling Vireo	96	Vireo gilvus
 2026-07-12 12:28:57	Warbling Vireo	86	Vireo gilvus
 2026-07-12 12:55:33	Downy Woodpecker	90	Dryobates pubescens
+2026-07-12 13:04:56	Broad-winged Hawk	83	Buteo platypterus
