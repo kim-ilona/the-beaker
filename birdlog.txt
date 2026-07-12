@@ -7484,3 +7484,4 @@
 2026-07-12 14:06:20	Song Sparrow	88	Melospiza melodia
 2026-07-12 14:17:53	House Finch	79	Haemorhous mexicanus
 2026-07-12 14:17:53	House Finch	82	Haemorhous mexicanus
+2026-07-12 14:21:08	Downy Woodpecker	96	Dryobates pubescens
