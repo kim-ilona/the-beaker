@@ -7222,3 +7222,5 @@
 2026-07-12 05:29:11	Northern Cardinal	80	Cardinalis cardinalis
 2026-07-12 05:33:24	Northern Parula	83	Setophaga americana
 2026-07-12 05:33:57	Northern Cardinal	77	Cardinalis cardinalis
+2026-07-12 05:34:30	Northern Cardinal	78	Cardinalis cardinalis
+2026-07-12 05:39:13	House Wren	78	Troglodytes aedon
