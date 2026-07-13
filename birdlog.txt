@@ -7679,3 +7679,4 @@
 2026-07-13 09:21:33	House Wren	70	Troglodytes aedon
 2026-07-13 09:22:05	House Wren	91	Troglodytes aedon
 2026-07-13 09:25:44	Northern Parula	78	Setophaga americana
+2026-07-13 09:26:17	American Redstart	73	Setophaga ruticilla
