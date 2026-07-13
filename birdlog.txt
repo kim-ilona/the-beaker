@@ -7688,3 +7688,4 @@
 2026-07-13 09:42:02	House Wren	78	Troglodytes aedon
 2026-07-13 09:44:09	Northern Parula	80	Setophaga americana
 2026-07-13 09:49:27	Warbling Vireo	89	Vireo gilvus
+2026-07-13 09:50:31	Song Sparrow	75	Melospiza melodia
