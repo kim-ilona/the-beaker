@@ -7752,3 +7752,4 @@
 2026-07-13 12:19:41	House Wren	89	Troglodytes aedon
 2026-07-13 12:24:29	House Wren	85	Troglodytes aedon
 2026-07-13 12:26:05	House Wren	73	Troglodytes aedon
+2026-07-13 12:46:33	House Finch	84	Haemorhous mexicanus
