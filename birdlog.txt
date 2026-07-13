@@ -7774,3 +7774,4 @@
 2026-07-13 16:04:17	House Finch	88	Haemorhous mexicanus
 2026-07-13 16:04:51	House Finch	87	Haemorhous mexicanus
 2026-07-13 16:09:40	White-breasted Nuthatch	82	Sitta carolinensis
+2026-07-13 16:44:54	Northern Cardinal	82	Cardinalis cardinalis
