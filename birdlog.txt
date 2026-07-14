@@ -7934,3 +7934,4 @@
 2026-07-14 18:50:42	American Goldfinch	73	Spinus tristis
 2026-07-14 18:51:45	Cedar Waxwing	90	Bombycilla cedrorum
 2026-07-14 18:51:45	Cedar Waxwing	78	Bombycilla cedrorum
+2026-07-14 19:11:42	Caspian Tern	79	Hydroprogne caspia
