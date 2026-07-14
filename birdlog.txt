@@ -7907,3 +7907,4 @@
 2026-07-14 09:59:06	House Wren	72	Troglodytes aedon
 2026-07-14 09:59:38	House Wren	83	Troglodytes aedon
 2026-07-14 10:09:03	Warbling Vireo	91	Vireo gilvus
+2026-07-14 10:14:16	Black-crowned Night-Heron	73	Nycticorax nycticorax
