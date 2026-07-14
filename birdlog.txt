@@ -7924,3 +7924,4 @@
 2026-07-14 11:13:03	Song Sparrow	73	Melospiza melodia
 2026-07-14 11:35:22	Song Sparrow	89	Melospiza melodia
 2026-07-14 11:35:54	Song Sparrow	81	Melospiza melodia
+2026-07-14 12:46:57	Cedar Waxwing	71	Bombycilla cedrorum
