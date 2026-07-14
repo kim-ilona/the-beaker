@@ -7915,3 +7915,4 @@
 2026-07-14 10:32:00	American Goldfinch	71	Spinus tristis
 2026-07-14 10:40:21	Warbling Vireo	83	Vireo gilvus
 2026-07-14 10:40:53	Common Raven	98	Corvus corax
+2026-07-14 11:00:55	Common Nighthawk	91	Chordeiles minor
