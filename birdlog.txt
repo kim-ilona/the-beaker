@@ -7928,3 +7928,4 @@
 2026-07-14 13:02:35	Eastern Phoebe	75	Sayornis phoebe
 2026-07-14 14:30:29	Song Sparrow	75	Melospiza melodia
 2026-07-14 15:20:28	White-breasted Nuthatch	70	Sitta carolinensis
+2026-07-14 17:46:08	Cedar Waxwing	76	Bombycilla cedrorum
