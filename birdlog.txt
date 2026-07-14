@@ -7785,3 +7785,4 @@
 2026-07-13 19:36:29	Broad-winged Hawk	90	Buteo platypterus
 2026-07-13 20:17:53	Cedar Waxwing	74	Bombycilla cedrorum
 2026-07-13 20:33:56	Belted Kingfisher	83	Megaceryle alcyon
+2026-07-13 20:36:32	Belted Kingfisher	72	Megaceryle alcyon
