@@ -7888,3 +7888,4 @@
 2026-07-14 08:37:02	Broad-winged Hawk	96	Buteo platypterus
 2026-07-14 08:49:37	Song Sparrow	87	Melospiza melodia
 2026-07-14 08:49:37	Song Sparrow	95	Melospiza melodia
+2026-07-14 08:50:41	Song Sparrow	70	Melospiza melodia
