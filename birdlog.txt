@@ -7931,3 +7931,4 @@
 2026-07-14 17:46:08	Cedar Waxwing	76	Bombycilla cedrorum
 2026-07-14 17:47:43	Common Nighthawk	91	Chordeiles minor
 2026-07-14 17:57:40	Cedar Waxwing	85	Bombycilla cedrorum
+2026-07-14 18:50:42	American Goldfinch	73	Spinus tristis
