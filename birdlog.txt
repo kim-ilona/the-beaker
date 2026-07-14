@@ -7783,3 +7783,4 @@
 2026-07-13 17:16:53	Warbling Vireo	85	Vireo gilvus
 2026-07-13 19:26:22	Eastern Kingbird	81	Tyrannus tyrannus
 2026-07-13 19:36:29	Broad-winged Hawk	90	Buteo platypterus
+2026-07-13 20:17:53	Cedar Waxwing	74	Bombycilla cedrorum
