@@ -8021,3 +8021,4 @@
 2026-07-15 09:07:19	American Goldfinch	72	Spinus tristis
 2026-07-15 09:10:57	American Goldfinch	80	Spinus tristis
 2026-07-15 09:11:29	American Goldfinch	80	Spinus tristis
+2026-07-15 09:13:34	Song Sparrow	73	Melospiza melodia
