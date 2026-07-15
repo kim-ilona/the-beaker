@@ -7950,3 +7950,4 @@
 2026-07-14 20:53:04	Downy Woodpecker	80	Dryobates pubescens
 2026-07-14 20:55:11	Song Sparrow	72	Melospiza melodia
 2026-07-14 21:08:50	Belted Kingfisher	76	Megaceryle alcyon
+2026-07-15 05:14:13	Northern Cardinal	88	Cardinalis cardinalis
