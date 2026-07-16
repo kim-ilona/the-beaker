@@ -8144,3 +8144,4 @@
 2026-07-16 10:08:07	American Goldfinch	79	Spinus tristis
 2026-07-16 10:21:41	American Robin	74	Turdus migratorius
 2026-07-16 10:22:13	Downy Woodpecker	95	Dryobates pubescens
+2026-07-16 10:28:26	House Wren	90	Troglodytes aedon
