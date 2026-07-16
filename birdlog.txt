@@ -8186,3 +8186,4 @@
 2026-07-16 15:15:07	American Goldfinch	78	Spinus tristis
 2026-07-16 15:15:40	American Goldfinch	84	Spinus tristis
 2026-07-16 15:15:40	American Goldfinch	96	Spinus tristis
+2026-07-16 15:20:58	Cedar Waxwing	81	Bombycilla cedrorum
