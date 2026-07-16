@@ -8067,3 +8067,4 @@
 2026-07-16 06:11:56	House Wren	88	Troglodytes aedon
 2026-07-16 06:13:30	House Wren	82	Troglodytes aedon
 2026-07-16 06:14:34	House Wren	73	Troglodytes aedon
+2026-07-16 06:36:15	Northern Cardinal	73	Cardinalis cardinalis
