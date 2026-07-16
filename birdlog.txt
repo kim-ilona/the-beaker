@@ -8148,3 +8148,4 @@
 2026-07-16 10:28:59	House Wren	72	Troglodytes aedon
 2026-07-16 10:29:33	House Wren	73	Troglodytes aedon
 2026-07-16 10:30:05	House Wren	72	Troglodytes aedon
+2026-07-16 10:30:37	Eastern Towhee	80	Pipilo erythrophthalmus
