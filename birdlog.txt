@@ -8025,3 +8025,4 @@
 2026-07-15 09:18:14	House Wren	72	Troglodytes aedon
 2026-07-15 09:20:49	Winter Wren	72	Troglodytes hiemalis
 2026-07-16 05:22:43	Song Sparrow	85	Melospiza melodia
+2026-07-16 05:23:46	Northern Cardinal	87	Cardinalis cardinalis
