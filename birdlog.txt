@@ -8363,3 +8363,4 @@
 2026-07-17 08:05:10	Warbling Vireo	93	Vireo gilvus
 2026-07-17 08:05:10	House Wren	87	Troglodytes aedon
 2026-07-17 08:06:17	Northern Rough-winged Swallow	85	Stelgidopteryx serripennis
+2026-07-17 08:06:17	Northern Rough-winged Swallow	84	Stelgidopteryx serripennis
