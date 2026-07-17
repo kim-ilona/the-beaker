@@ -8462,3 +8462,4 @@
 2026-07-17 16:48:33	Common Nighthawk	91	Chordeiles minor
 2026-07-17 16:58:44	House Wren	76	Troglodytes aedon
 2026-07-17 17:50:11	American Goldfinch	74	Spinus tristis
+2026-07-17 17:50:45	American Goldfinch	72	Spinus tristis
