@@ -8385,3 +8385,4 @@
 2026-07-17 09:20:58	Song Sparrow	78	Melospiza melodia
 2026-07-17 09:21:32	Song Sparrow	84	Melospiza melodia
 2026-07-17 09:24:12	Song Sparrow	73	Melospiza melodia
+2026-07-17 09:25:17	House Finch	76	Haemorhous mexicanus
