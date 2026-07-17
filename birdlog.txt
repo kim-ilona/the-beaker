@@ -8449,3 +8449,4 @@
 2026-07-17 15:20:38	Cedar Waxwing	83	Bombycilla cedrorum
 2026-07-17 15:36:21	House Wren	86	Troglodytes aedon
 2026-07-17 15:50:19	American Goldfinch	86	Spinus tristis
+2026-07-17 16:28:50	Northern Cardinal	89	Cardinalis cardinalis
