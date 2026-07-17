@@ -8461,3 +8461,4 @@
 2026-07-17 16:43:41	Song Sparrow	74	Melospiza melodia
 2026-07-17 16:48:33	Common Nighthawk	91	Chordeiles minor
 2026-07-17 16:58:44	House Wren	76	Troglodytes aedon
+2026-07-17 17:50:11	American Goldfinch	74	Spinus tristis
