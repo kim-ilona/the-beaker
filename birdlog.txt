@@ -8445,3 +8445,4 @@
 2026-07-17 14:24:26	House Wren	86	Troglodytes aedon
 2026-07-17 14:25:32	Song Sparrow	74	Melospiza melodia
 2026-07-17 14:41:25	Common Nighthawk	90	Chordeiles minor
+2026-07-17 14:47:27	Northern Cardinal	70	Cardinalis cardinalis
