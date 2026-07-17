@@ -8467,3 +8467,4 @@
 2026-07-17 18:16:17	Cedar Waxwing	77	Bombycilla cedrorum
 2026-07-17 18:16:17	Cedar Waxwing	76	Bombycilla cedrorum
 2026-07-17 18:21:11	Song Sparrow	94	Melospiza melodia
+2026-07-17 19:15:22	House Wren	84	Troglodytes aedon
