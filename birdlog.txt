@@ -8202,3 +8202,4 @@
 2026-07-16 19:02:19	Cedar Waxwing	82	Bombycilla cedrorum
 2026-07-16 19:51:41	American Goldfinch	71	Spinus tristis
 2026-07-16 20:12:01	Downy Woodpecker	95	Dryobates pubescens
+2026-07-17 01:52:36	Black-billed Cuckoo	88	Coccyzus erythropthalmus
