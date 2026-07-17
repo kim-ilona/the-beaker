@@ -8291,3 +8291,4 @@
 2026-07-17 06:24:49	Common Raven	75	Corvus corax
 2026-07-17 06:25:22	Common Raven	75	Corvus corax
 2026-07-17 06:25:54	House Wren	70	Troglodytes aedon
+2026-07-17 06:36:54	Yellow-throated Vireo	71	Vireo flavifrons
