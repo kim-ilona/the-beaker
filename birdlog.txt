@@ -8459,3 +8459,4 @@
 2026-07-17 16:33:20	Northern Cardinal	91	Cardinalis cardinalis
 2026-07-17 16:33:20	Northern Cardinal	90	Cardinalis cardinalis
 2026-07-17 16:43:41	Song Sparrow	74	Melospiza melodia
+2026-07-17 16:48:33	Common Nighthawk	91	Chordeiles minor
