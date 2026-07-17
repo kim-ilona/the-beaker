@@ -8366,3 +8366,4 @@
 2026-07-17 08:06:17	Northern Rough-winged Swallow	84	Stelgidopteryx serripennis
 2026-07-17 08:09:02	Warbling Vireo	87	Vireo gilvus
 2026-07-17 08:14:26	Warbling Vireo	97	Vireo gilvus
+2026-07-17 08:17:41	Song Sparrow	74	Melospiza melodia
