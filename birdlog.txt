@@ -8610,3 +8610,4 @@
 2026-07-18 11:08:24	Warbling Vireo	87	Vireo gilvus
 2026-07-18 11:10:02	Warbling Vireo	85	Vireo gilvus
 2026-07-18 11:10:35	Warbling Vireo	78	Vireo gilvus
+2026-07-18 13:46:19	Song Sparrow	76	Melospiza melodia
