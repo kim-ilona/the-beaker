@@ -8475,3 +8475,4 @@
 2026-07-17 20:03:45	Downy Woodpecker	82	Dryobates pubescens
 2026-07-17 20:06:22	Downy Woodpecker	96	Dryobates pubescens
 2026-07-17 20:06:22	Downy Woodpecker	75	Dryobates pubescens
+2026-07-17 22:25:43	Black-crowned Night-Heron	83	Nycticorax nycticorax
