@@ -8612,3 +8612,4 @@
 2026-07-18 11:10:35	Warbling Vireo	78	Vireo gilvus
 2026-07-18 13:46:19	Song Sparrow	76	Melospiza melodia
 2026-07-18 14:57:07	American Goldfinch	79	Spinus tristis
+2026-07-18 15:01:24	Cedar Waxwing	89	Bombycilla cedrorum
