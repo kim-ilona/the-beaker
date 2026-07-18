@@ -8472,3 +8472,4 @@
 2026-07-17 19:38:28	House Wren	81	Troglodytes aedon
 2026-07-17 19:57:27	House Wren	93	Troglodytes aedon
 2026-07-17 20:02:41	American Goldfinch	77	Spinus tristis
+2026-07-17 20:03:45	Downy Woodpecker	82	Dryobates pubescens
