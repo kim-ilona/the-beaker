@@ -8478,3 +8478,4 @@
 2026-07-17 22:25:43	Black-crowned Night-Heron	83	Nycticorax nycticorax
 2026-07-17 22:25:43	Black-crowned Night-Heron	95	Nycticorax nycticorax
 2026-07-17 22:25:43	Black-crowned Night-Heron	94	Nycticorax nycticorax
+2026-07-18 01:00:16	Black-crowned Night-Heron	84	Nycticorax nycticorax
