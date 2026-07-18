@@ -8481,3 +8481,4 @@
 2026-07-18 01:00:16	Black-crowned Night-Heron	84	Nycticorax nycticorax
 2026-07-18 05:17:11	Northern Cardinal	89	Cardinalis cardinalis
 2026-07-18 05:17:44	Northern Cardinal	77	Cardinalis cardinalis
+2026-07-18 05:23:01	House Wren	81	Troglodytes aedon
