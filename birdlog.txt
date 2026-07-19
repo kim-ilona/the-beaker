@@ -8669,3 +8669,4 @@
 2026-07-19 10:44:31	American Kestrel	98	Falco sparverius
 2026-07-19 11:10:17	Song Sparrow	76	Melospiza melodia
 2026-07-19 11:32:29	American Goldfinch	81	Spinus tristis
+2026-07-19 11:36:15	American Goldfinch	92	Spinus tristis
