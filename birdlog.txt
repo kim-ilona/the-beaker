@@ -8645,3 +8645,4 @@
 2026-07-19 08:10:49	Northern Cardinal	88	Cardinalis cardinalis
 2026-07-19 08:43:18	Common Nighthawk	73	Chordeiles minor
 2026-07-19 09:14:18	Downy Woodpecker	89	Dryobates pubescens
+2026-07-19 09:14:52	Warbling Vireo	83	Vireo gilvus
