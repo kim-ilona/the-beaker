@@ -8643,3 +8643,4 @@
 2026-07-19 08:02:23	House Finch	95	Haemorhous mexicanus
 2026-07-19 08:02:23	House Finch	87	Haemorhous mexicanus
 2026-07-19 08:10:49	Northern Cardinal	88	Cardinalis cardinalis
+2026-07-19 08:43:18	Common Nighthawk	73	Chordeiles minor
