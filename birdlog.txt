@@ -8667,3 +8667,4 @@
 2026-07-19 10:16:20	Cedar Waxwing	82	Bombycilla cedrorum
 2026-07-19 10:30:59	Warbling Vireo	76	Vireo gilvus
 2026-07-19 10:44:31	American Kestrel	98	Falco sparverius
+2026-07-19 11:10:17	Song Sparrow	76	Melospiza melodia
