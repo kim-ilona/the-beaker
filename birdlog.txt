@@ -8680,3 +8680,4 @@
 2026-07-19 16:33:04	Cedar Waxwing	88	Bombycilla cedrorum
 2026-07-19 17:12:43	Common Nighthawk	71	Chordeiles minor
 2026-07-19 17:33:22	Downy Woodpecker	96	Dryobates pubescens
+2026-07-19 17:33:55	House Wren	87	Troglodytes aedon
