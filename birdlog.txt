@@ -8638,3 +8638,4 @@
 2026-07-19 07:25:02	Downy Woodpecker	72	Dryobates pubescens
 2026-07-19 07:45:29	House Sparrow	78	Passer domesticus
 2026-07-19 07:57:35	Purple Martin	79	Progne subis
+2026-07-19 08:01:17	House Finch	96	Haemorhous mexicanus
