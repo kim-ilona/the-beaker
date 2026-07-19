@@ -8670,3 +8670,4 @@
 2026-07-19 11:10:17	Song Sparrow	76	Melospiza melodia
 2026-07-19 11:32:29	American Goldfinch	81	Spinus tristis
 2026-07-19 11:36:15	American Goldfinch	92	Spinus tristis
+2026-07-19 11:52:04	House Wren	73	Troglodytes aedon
