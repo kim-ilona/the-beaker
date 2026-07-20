@@ -8831,3 +8831,4 @@
 2026-07-20 11:54:42	American Goldfinch	87	Spinus tristis
 2026-07-20 11:55:15	American Goldfinch	72	Spinus tristis
 2026-07-20 11:59:59	Song Sparrow	71	Melospiza melodia
+2026-07-20 12:03:41	Belted Kingfisher	80	Megaceryle alcyon
