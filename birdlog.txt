@@ -8837,3 +8837,4 @@
 2026-07-20 13:04:34	House Sparrow	74	Passer domesticus
 2026-07-20 13:21:21	House Sparrow	78	Passer domesticus
 2026-07-20 13:58:25	Cedar Waxwing	79	Bombycilla cedrorum
+2026-07-20 14:55:48	American Goldfinch	74	Spinus tristis
