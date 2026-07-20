@@ -8844,3 +8844,4 @@
 2026-07-20 16:19:54	Cedar Waxwing	76	Bombycilla cedrorum
 2026-07-20 16:19:54	Cedar Waxwing	93	Bombycilla cedrorum
 2026-07-20 16:19:54	Cedar Waxwing	86	Bombycilla cedrorum
+2026-07-20 17:46:20	House Wren	73	Troglodytes aedon
