@@ -8819,3 +8819,4 @@
 2026-07-20 11:22:05	House Finch	75	Haemorhous mexicanus
 2026-07-20 11:34:47	American Goldfinch	81	Spinus tristis
 2026-07-20 11:34:47	American Goldfinch	100	Spinus tristis
+2026-07-20 11:34:47	Common Raven	77	Corvus corax
