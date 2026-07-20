@@ -8847,3 +8847,4 @@
 2026-07-20 17:46:20	House Wren	73	Troglodytes aedon
 2026-07-20 18:44:00	Cedar Waxwing	71	Bombycilla cedrorum
 2026-07-20 19:13:12	American Goldfinch	77	Spinus tristis
+2026-07-20 19:16:56	Belted Kingfisher	88	Megaceryle alcyon
