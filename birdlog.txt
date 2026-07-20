@@ -8783,3 +8783,4 @@
 2026-07-20 08:40:21	Warbling Vireo	84	Vireo gilvus
 2026-07-20 08:45:40	Song Sparrow	75	Melospiza melodia
 2026-07-20 08:51:30	Common Nighthawk	75	Chordeiles minor
+2026-07-20 08:55:44	Downy Woodpecker	98	Dryobates pubescens
