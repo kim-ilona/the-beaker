@@ -8784,3 +8784,4 @@
 2026-07-20 08:45:40	Song Sparrow	75	Melospiza melodia
 2026-07-20 08:51:30	Common Nighthawk	75	Chordeiles minor
 2026-07-20 08:55:44	Downy Woodpecker	98	Dryobates pubescens
+2026-07-20 08:56:48	House Sparrow	78	Passer domesticus
