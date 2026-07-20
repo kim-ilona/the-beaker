@@ -8697,3 +8697,4 @@
 2026-07-19 22:09:09	Rock Pigeon	82	Columba livia
 2026-07-20 05:27:59	Northern Cardinal	85	Cardinalis cardinalis
 2026-07-20 05:31:41	House Wren	78	Troglodytes aedon
+2026-07-20 05:31:41	House Wren	91	Troglodytes aedon
