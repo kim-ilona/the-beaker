@@ -8849,3 +8849,4 @@
 2026-07-20 19:13:12	American Goldfinch	77	Spinus tristis
 2026-07-20 19:16:56	Belted Kingfisher	88	Megaceryle alcyon
 2026-07-20 19:19:08	Belted Kingfisher	76	Megaceryle alcyon
+2026-07-20 19:57:04	Downy Woodpecker	98	Dryobates pubescens
