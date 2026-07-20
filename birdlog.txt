@@ -8692,3 +8692,4 @@
 2026-07-19 20:18:38	American Goldfinch	93	Spinus tristis
 2026-07-19 20:19:13	American Goldfinch	93	Spinus tristis
 2026-07-19 20:22:53	American Goldfinch	83	Spinus tristis
+2026-07-19 20:31:50	Dark-eyed Junco	78	Junco hyemalis
