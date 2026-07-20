@@ -8812,3 +8812,4 @@
 2026-07-20 10:29:46	Warbling Vireo	70	Vireo gilvus
 2026-07-20 10:39:45	Song Sparrow	92	Melospiza melodia
 2026-07-20 10:51:52	Northern Cardinal	78	Cardinalis cardinalis
+2026-07-20 10:54:01	American Goldfinch	74	Spinus tristis
