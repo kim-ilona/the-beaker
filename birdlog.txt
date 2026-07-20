@@ -8694,3 +8694,4 @@
 2026-07-19 20:22:53	American Goldfinch	83	Spinus tristis
 2026-07-19 20:31:50	Dark-eyed Junco	78	Junco hyemalis
 2026-07-19 21:22:32	Red-breasted Nuthatch	85	Sitta canadensis
+2026-07-19 22:09:09	Rock Pigeon	82	Columba livia
