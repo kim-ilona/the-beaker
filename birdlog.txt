@@ -8717,3 +8717,4 @@
 2026-07-20 06:20:09	Warbling Vireo	91	Vireo gilvus
 2026-07-20 06:26:59	House Wren	72	Troglodytes aedon
 2026-07-20 06:36:58	House Wren	77	Troglodytes aedon
+2026-07-20 06:44:20	Song Sparrow	77	Melospiza melodia
