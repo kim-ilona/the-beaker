@@ -8683,3 +8683,4 @@
 2026-07-19 17:33:55	House Wren	87	Troglodytes aedon
 2026-07-19 18:30:35	Song Sparrow	83	Melospiza melodia
 2026-07-19 19:18:29	Downy Woodpecker	90	Dryobates pubescens
+2026-07-19 20:08:36	Hairy Woodpecker	84	Dryobates villosus
