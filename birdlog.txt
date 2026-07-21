@@ -8860,3 +8860,4 @@
 2026-07-21 08:16:12	American Goldfinch	74	Spinus tristis
 2026-07-21 08:38:20	Purple Martin	77	Progne subis
 2026-07-21 08:57:25	House Sparrow	82	Passer domesticus
+2026-07-21 08:57:58	House Sparrow	75	Passer domesticus
