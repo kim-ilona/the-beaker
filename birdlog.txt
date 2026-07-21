@@ -8864,3 +8864,4 @@
 2026-07-21 08:57:58	Purple Martin	85	Progne subis
 2026-07-21 08:59:08	House Sparrow	77	Passer domesticus
 2026-07-21 09:09:02	Northern Rough-winged Swallow	89	Stelgidopteryx serripennis
+2026-07-21 09:48:16	Downy Woodpecker	83	Dryobates pubescens
