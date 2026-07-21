@@ -8853,3 +8853,4 @@
 2026-07-20 20:01:23	Northern Rough-winged Swallow	74	Stelgidopteryx serripennis
 2026-07-20 20:05:37	Northern Rough-winged Swallow	98	Stelgidopteryx serripennis
 2026-07-20 20:06:10	Northern Rough-winged Swallow	79	Stelgidopteryx serripennis
+2026-07-20 20:07:49	Downy Woodpecker	93	Dryobates pubescens
