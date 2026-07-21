@@ -8857,3 +8857,4 @@
 2026-07-21 05:31:46	Song Sparrow	74	Melospiza melodia
 2026-07-21 05:37:34	Black-crowned Night-Heron	94	Nycticorax nycticorax
 2026-07-21 05:53:20	Northern Cardinal	76	Cardinalis cardinalis
+2026-07-21 08:16:12	American Goldfinch	74	Spinus tristis
