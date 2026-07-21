@@ -8861,3 +8861,4 @@
 2026-07-21 08:38:20	Purple Martin	77	Progne subis
 2026-07-21 08:57:25	House Sparrow	82	Passer domesticus
 2026-07-21 08:57:58	House Sparrow	75	Passer domesticus
+2026-07-21 08:57:58	Purple Martin	85	Progne subis
