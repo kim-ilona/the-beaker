@@ -8869,3 +8869,4 @@
 2026-07-21 10:03:14	Belted Kingfisher	92	Megaceryle alcyon
 2026-07-21 10:03:14	Belted Kingfisher	95	Megaceryle alcyon
 2026-07-21 10:46:23	Warbling Vireo	90	Vireo gilvus
+2026-07-21 10:46:23	Warbling Vireo	84	Vireo gilvus
