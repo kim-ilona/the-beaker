@@ -8923,3 +8923,4 @@
 2026-07-22 13:44:05	House Finch	83	Haemorhous mexicanus
 2026-07-22 14:18:21	Belted Kingfisher	75	Megaceryle alcyon
 2026-07-22 14:34:23	Northern Cardinal	82	Cardinalis cardinalis
+2026-07-22 15:32:48	Cedar Waxwing	78	Bombycilla cedrorum
