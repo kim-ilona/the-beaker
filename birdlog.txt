@@ -8907,3 +8907,4 @@
 2026-07-22 06:11:52	Northern Cardinal	74	Cardinalis cardinalis
 2026-07-22 06:24:00	Northern Cardinal	74	Cardinalis cardinalis
 2026-07-22 07:45:59	Northern Cardinal	71	Cardinalis cardinalis
+2026-07-22 08:56:32	Mallard	77	Anas platyrhynchos
