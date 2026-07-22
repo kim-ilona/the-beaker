@@ -8929,3 +8929,4 @@
 2026-07-22 16:45:36	Common Grackle	77	Quiscalus quiscula
 2026-07-22 17:06:32	American Goldfinch	72	Spinus tristis
 2026-07-22 17:56:34	Purple Martin	80	Progne subis
+2026-07-22 19:19:28	Cedar Waxwing	87	Bombycilla cedrorum
