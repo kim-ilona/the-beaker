@@ -8909,3 +8909,4 @@
 2026-07-22 07:45:59	Northern Cardinal	71	Cardinalis cardinalis
 2026-07-22 08:56:32	Mallard	77	Anas platyrhynchos
 2026-07-22 09:28:17	Downy Woodpecker	79	Dryobates pubescens
+2026-07-22 09:32:32	Northern Rough-winged Swallow	80	Stelgidopteryx serripennis
