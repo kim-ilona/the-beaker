@@ -8921,3 +8921,4 @@
 2026-07-22 13:27:27	Song Sparrow	79	Melospiza melodia
 2026-07-22 13:43:31	House Finch	80	Haemorhous mexicanus
 2026-07-22 13:44:05	House Finch	83	Haemorhous mexicanus
+2026-07-22 14:18:21	Belted Kingfisher	75	Megaceryle alcyon
