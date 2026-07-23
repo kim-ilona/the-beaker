@@ -8940,3 +8940,4 @@
 2026-07-23 03:50:03	Rock Pigeon	70	Columba livia
 2026-07-23 05:20:08	Semipalmated Plover	77	Charadrius semipalmatus
 2026-07-23 05:27:30	Northern Cardinal	82	Cardinalis cardinalis
+2026-07-23 05:27:30	Northern Cardinal	84	Cardinalis cardinalis
