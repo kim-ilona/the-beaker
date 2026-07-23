@@ -8972,3 +8972,4 @@
 2026-07-23 10:33:45	Downy Woodpecker	83	Dryobates pubescens
 2026-07-23 10:42:49	House Finch	79	Haemorhous mexicanus
 2026-07-23 10:48:40	Song Sparrow	72	Melospiza melodia
+2026-07-23 10:55:35	Northern Cardinal	75	Cardinalis cardinalis
