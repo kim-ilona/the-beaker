@@ -8992,3 +8992,4 @@
 2026-07-23 14:21:19	American Goldfinch	78	Spinus tristis
 2026-07-23 15:22:07	Cedar Waxwing	98	Bombycilla cedrorum
 2026-07-23 15:28:02	Cedar Waxwing	71	Bombycilla cedrorum
+2026-07-23 15:47:24	Northern Cardinal	74	Cardinalis cardinalis
