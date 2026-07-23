@@ -8932,3 +8932,4 @@
 2026-07-22 19:19:28	Cedar Waxwing	87	Bombycilla cedrorum
 2026-07-22 20:29:38	Northern Cardinal	85	Cardinalis cardinalis
 2026-07-22 21:07:48	American Robin	72	Turdus migratorius
+2026-07-22 21:33:18	Rock Pigeon	77	Columba livia
