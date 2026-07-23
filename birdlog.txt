@@ -8995,3 +8995,4 @@
 2026-07-23 15:47:24	Northern Cardinal	74	Cardinalis cardinalis
 2026-07-23 15:47:24	Northern Cardinal	79	Cardinalis cardinalis
 2026-07-23 15:49:04	Northern Cardinal	82	Cardinalis cardinalis
+2026-07-23 15:58:39	Cedar Waxwing	72	Bombycilla cedrorum
