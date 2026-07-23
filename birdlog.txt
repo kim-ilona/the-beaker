@@ -8963,3 +8963,4 @@
 2026-07-23 09:11:28	Cedar Waxwing	72	Bombycilla cedrorum
 2026-07-23 09:15:28	Song Sparrow	71	Melospiza melodia
 2026-07-23 09:32:45	Downy Woodpecker	88	Dryobates pubescens
+2026-07-23 09:49:56	Song Sparrow	71	Melospiza melodia
