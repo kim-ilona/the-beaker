@@ -8930,3 +8930,4 @@
 2026-07-22 17:06:32	American Goldfinch	72	Spinus tristis
 2026-07-22 17:56:34	Purple Martin	80	Progne subis
 2026-07-22 19:19:28	Cedar Waxwing	87	Bombycilla cedrorum
+2026-07-22 20:29:38	Northern Cardinal	85	Cardinalis cardinalis
