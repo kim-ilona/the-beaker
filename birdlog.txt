@@ -8975,3 +8975,4 @@
 2026-07-23 10:55:35	Northern Cardinal	75	Cardinalis cardinalis
 2026-07-23 10:55:35	Northern Cardinal	88	Cardinalis cardinalis
 2026-07-23 10:59:21	House Finch	79	Haemorhous mexicanus
+2026-07-23 11:15:19	American Goldfinch	84	Spinus tristis
