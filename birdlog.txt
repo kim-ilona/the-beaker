@@ -8955,3 +8955,4 @@
 2026-07-23 06:54:40	Song Sparrow	76	Melospiza melodia
 2026-07-23 07:14:42	Northern Cardinal	86	Cardinalis cardinalis
 2026-07-23 07:37:22	Chimney Swift	93	Chaetura pelagica
+2026-07-23 07:42:06	Cedar Waxwing	75	Bombycilla cedrorum
