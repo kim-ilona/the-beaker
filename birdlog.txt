@@ -8938,3 +8938,4 @@
 2026-07-22 22:57:02	Rock Pigeon	79	Columba livia
 2026-07-22 22:57:02	Rock Pigeon	83	Columba livia
 2026-07-23 03:50:03	Rock Pigeon	70	Columba livia
+2026-07-23 05:20:08	Semipalmated Plover	77	Charadrius semipalmatus
