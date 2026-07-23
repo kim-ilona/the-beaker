@@ -8934,3 +8934,4 @@
 2026-07-22 21:07:48	American Robin	72	Turdus migratorius
 2026-07-22 21:33:18	Rock Pigeon	77	Columba livia
 2026-07-22 21:49:14	Rock Pigeon	72	Columba livia
+2026-07-22 22:00:54	Broad-winged Hawk	91	Buteo platypterus
