@@ -8999,3 +8999,4 @@
 2026-07-23 16:07:38	Broad-winged Hawk	80	Buteo platypterus
 2026-07-23 16:33:16	Cedar Waxwing	87	Bombycilla cedrorum
 2026-07-23 18:19:54	Cedar Waxwing	90	Bombycilla cedrorum
+2026-07-23 20:28:56	Northern Cardinal	93	Cardinalis cardinalis
