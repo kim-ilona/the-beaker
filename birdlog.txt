@@ -9115,3 +9115,4 @@
 2026-07-24 19:24:53	House Sparrow	94	Passer domesticus
 2026-07-24 19:26:36	House Sparrow	93	Passer domesticus
 2026-07-24 19:26:36	House Sparrow	91	Passer domesticus
+2026-07-24 19:34:24	Downy Woodpecker	96	Dryobates pubescens
