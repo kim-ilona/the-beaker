@@ -9017,3 +9017,4 @@
 2026-07-24 05:43:43	House Wren	72	Troglodytes aedon
 2026-07-24 05:44:19	House Wren	73	Troglodytes aedon
 2026-07-24 05:44:19	House Wren	72	Troglodytes aedon
+2026-07-24 05:59:01	White-throated Sparrow	71	Zonotrichia albicollis
