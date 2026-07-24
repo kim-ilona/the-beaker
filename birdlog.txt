@@ -9102,3 +9102,4 @@
 2026-07-24 17:39:40	Rock Pigeon	80	Columba livia
 2026-07-24 17:49:14	Cedar Waxwing	76	Bombycilla cedrorum
 2026-07-24 17:56:25	Common Nighthawk	85	Chordeiles minor
+2026-07-24 17:56:58	House Finch	77	Haemorhous mexicanus
