@@ -9028,3 +9028,4 @@
 2026-07-24 07:35:44	Downy Woodpecker	88	Dryobates pubescens
 2026-07-24 07:37:20	Downy Woodpecker	87	Dryobates pubescens
 2026-07-24 07:44:41	Downy Woodpecker	88	Dryobates pubescens
+2026-07-24 08:02:01	Song Sparrow	85	Melospiza melodia
