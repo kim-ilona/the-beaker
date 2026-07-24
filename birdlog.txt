@@ -9108,3 +9108,4 @@
 2026-07-24 18:06:21	Cedar Waxwing	90	Bombycilla cedrorum
 2026-07-24 18:06:21	Cedar Waxwing	98	Bombycilla cedrorum
 2026-07-24 18:14:55	Cedar Waxwing	78	Bombycilla cedrorum
+2026-07-24 18:56:06	Chimney Swift	86	Chaetura pelagica
