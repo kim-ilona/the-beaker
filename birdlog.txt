@@ -9042,3 +9042,4 @@
 2026-07-24 09:26:34	Cedar Waxwing	81	Bombycilla cedrorum
 2026-07-24 09:44:42	Song Sparrow	79	Melospiza melodia
 2026-07-24 09:52:33	American Goldfinch	80	Spinus tristis
+2026-07-24 09:55:12	Rock Pigeon	70	Columba livia
