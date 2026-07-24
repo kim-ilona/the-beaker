@@ -9100,3 +9100,4 @@
 2026-07-24 17:01:09	House Sparrow	82	Passer domesticus
 2026-07-24 17:03:24	House Sparrow	78	Passer domesticus
 2026-07-24 17:39:40	Rock Pigeon	80	Columba livia
+2026-07-24 17:49:14	Cedar Waxwing	76	Bombycilla cedrorum
