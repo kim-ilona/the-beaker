@@ -9095,3 +9095,4 @@
 2026-07-24 16:37:35	Cedar Waxwing	87	Bombycilla cedrorum
 2026-07-24 16:40:16	Cedar Waxwing	93	Bombycilla cedrorum
 2026-07-24 16:53:34	Cedar Waxwing	79	Bombycilla cedrorum
+2026-07-24 17:00:01	House Sparrow	89	Passer domesticus
