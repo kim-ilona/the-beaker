@@ -9056,3 +9056,4 @@
 2026-07-24 13:03:56	House Finch	87	Haemorhous mexicanus
 2026-07-24 13:19:56	House Finch	81	Haemorhous mexicanus
 2026-07-24 13:33:17	Cedar Waxwing	82	Bombycilla cedrorum
+2026-07-24 13:54:22	American Goldfinch	72	Spinus tristis
