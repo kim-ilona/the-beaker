@@ -9051,3 +9051,4 @@
 2026-07-24 12:24:15	American Goldfinch	98	Spinus tristis
 2026-07-24 12:24:15	American Goldfinch	94	Spinus tristis
 2026-07-24 12:24:15	American Goldfinch	72	Spinus tristis
+2026-07-24 13:02:17	House Finch	86	Haemorhous mexicanus
