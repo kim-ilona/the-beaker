@@ -9002,3 +9002,4 @@
 2026-07-23 20:28:56	Northern Cardinal	93	Cardinalis cardinalis
 2026-07-23 20:28:56	Northern Cardinal	73	Cardinalis cardinalis
 2026-07-23 21:08:28	Black-crowned Night-Heron	96	Nycticorax nycticorax
+2026-07-24 00:05:53	Caspian Tern	76	Hydroprogne caspia
