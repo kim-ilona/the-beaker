@@ -9036,3 +9036,4 @@
 2026-07-24 08:31:45	House Sparrow	79	Passer domesticus
 2026-07-24 08:58:53	House Finch	88	Haemorhous mexicanus
 2026-07-24 09:06:14	Northern Rough-winged Swallow	71	Stelgidopteryx serripennis
+2026-07-24 09:06:48	Northern Rough-winged Swallow	91	Stelgidopteryx serripennis
