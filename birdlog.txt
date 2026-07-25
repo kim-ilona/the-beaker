@@ -9229,3 +9229,4 @@
 2026-07-25 17:54:09	Cedar Waxwing	90	Bombycilla cedrorum
 2026-07-25 17:54:09	Cedar Waxwing	81	Bombycilla cedrorum
 2026-07-25 17:54:09	Cedar Waxwing	93	Bombycilla cedrorum
+2026-07-25 17:55:50	Northern Rough-winged Swallow	89	Stelgidopteryx serripennis
