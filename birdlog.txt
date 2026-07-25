@@ -9249,3 +9249,4 @@
 2026-07-25 19:45:57	Cedar Waxwing	93	Bombycilla cedrorum
 2026-07-25 19:48:38	Cedar Waxwing	80	Bombycilla cedrorum
 2026-07-25 19:48:38	Cedar Waxwing	88	Bombycilla cedrorum
+2026-07-25 19:49:45	House Finch	90	Haemorhous mexicanus
