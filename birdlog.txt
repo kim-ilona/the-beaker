@@ -9116,3 +9116,4 @@
 2026-07-24 19:26:36	House Sparrow	93	Passer domesticus
 2026-07-24 19:26:36	House Sparrow	91	Passer domesticus
 2026-07-24 19:34:24	Downy Woodpecker	96	Dryobates pubescens
+2026-07-24 20:08:51	Cedar Waxwing	89	Bombycilla cedrorum
