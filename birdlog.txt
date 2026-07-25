@@ -9173,3 +9173,4 @@
 2026-07-25 10:06:25	House Finch	80	Haemorhous mexicanus
 2026-07-25 10:11:40	Downy Woodpecker	96	Dryobates pubescens
 2026-07-25 10:25:53	Cedar Waxwing	95	Bombycilla cedrorum
+2026-07-25 10:28:01	Warbling Vireo	93	Vireo gilvus
