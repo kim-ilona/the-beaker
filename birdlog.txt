@@ -9195,3 +9195,4 @@
 2026-07-25 13:50:18	American Goldfinch	89	Spinus tristis
 2026-07-25 13:58:12	House Finch	90	Haemorhous mexicanus
 2026-07-25 14:10:56	Downy Woodpecker	74	Dryobates pubescens
+2026-07-25 15:11:55	Cedar Waxwing	75	Bombycilla cedrorum
