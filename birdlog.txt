@@ -9201,3 +9201,4 @@
 2026-07-25 15:24:19	Song Sparrow	81	Melospiza melodia
 2026-07-25 16:07:19	Cedar Waxwing	89	Bombycilla cedrorum
 2026-07-25 16:07:19	Wild Turkey	84	Meleagris gallopavo
+2026-07-25 16:07:19	Cedar Waxwing	71	Bombycilla cedrorum
