@@ -9197,3 +9197,4 @@
 2026-07-25 14:10:56	Downy Woodpecker	74	Dryobates pubescens
 2026-07-25 15:11:55	Cedar Waxwing	75	Bombycilla cedrorum
 2026-07-25 15:13:01	Belted Kingfisher	96	Megaceryle alcyon
+2026-07-25 15:14:07	Song Sparrow	83	Melospiza melodia
