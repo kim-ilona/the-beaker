@@ -9145,3 +9145,4 @@
 2026-07-25 06:20:59	Blue-gray Gnatcatcher	77	Polioptila caerulea
 2026-07-25 06:26:17	Warbling Vireo	83	Vireo gilvus
 2026-07-25 07:05:24	Golden-crowned Kinglet	74	Regulus satrapa
+2026-07-25 07:14:20	House Wren	75	Troglodytes aedon
