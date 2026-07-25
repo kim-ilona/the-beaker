@@ -9141,3 +9141,4 @@
 2026-07-25 06:01:30	Song Sparrow	77	Melospiza melodia
 2026-07-25 06:02:03	Song Sparrow	74	Melospiza melodia
 2026-07-25 06:12:01	Belted Kingfisher	98	Megaceryle alcyon
+2026-07-25 06:13:37	House Sparrow	71	Passer domesticus
