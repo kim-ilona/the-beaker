@@ -9185,3 +9185,4 @@
 2026-07-25 12:56:39	Belted Kingfisher	73	Megaceryle alcyon
 2026-07-25 12:57:14	Belted Kingfisher	83	Megaceryle alcyon
 2026-07-25 13:21:42	Downy Woodpecker	79	Dryobates pubescens
+2026-07-25 13:24:54	House Finch	88	Haemorhous mexicanus
