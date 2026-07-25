@@ -9203,3 +9203,4 @@
 2026-07-25 16:07:19	Wild Turkey	84	Meleagris gallopavo
 2026-07-25 16:07:19	Cedar Waxwing	71	Bombycilla cedrorum
 2026-07-25 16:10:05	Belted Kingfisher	95	Megaceryle alcyon
+2026-07-25 16:32:30	Cedar Waxwing	85	Bombycilla cedrorum
