@@ -9216,3 +9216,4 @@
 2026-07-25 16:51:11	Belted Kingfisher	84	Megaceryle alcyon
 2026-07-25 17:18:09	Belted Kingfisher	90	Megaceryle alcyon
 2026-07-25 17:19:15	Cedar Waxwing	90	Bombycilla cedrorum
+2026-07-25 17:20:52	Brown Creeper	74	Certhia americana
