@@ -9205,3 +9205,4 @@
 2026-07-25 16:10:05	Belted Kingfisher	95	Megaceryle alcyon
 2026-07-25 16:32:30	Cedar Waxwing	85	Bombycilla cedrorum
 2026-07-25 16:33:03	Cedar Waxwing	78	Bombycilla cedrorum
+2026-07-25 16:33:03	Cedar Waxwing	73	Bombycilla cedrorum
