@@ -9124,3 +9124,4 @@
 2026-07-25 00:08:28	Black-crowned Night-Heron	92	Nycticorax nycticorax
 2026-07-25 00:08:28	Black-crowned Night-Heron	76	Nycticorax nycticorax
 2026-07-25 04:17:47	Black-crowned Night-Heron	96	Nycticorax nycticorax
+2026-07-25 05:26:31	Mallard	86	Anas platyrhynchos
