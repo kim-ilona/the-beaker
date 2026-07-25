@@ -9198,3 +9198,4 @@
 2026-07-25 15:11:55	Cedar Waxwing	75	Bombycilla cedrorum
 2026-07-25 15:13:01	Belted Kingfisher	96	Megaceryle alcyon
 2026-07-25 15:14:07	Song Sparrow	83	Melospiza melodia
+2026-07-25 15:24:19	Song Sparrow	81	Melospiza melodia
