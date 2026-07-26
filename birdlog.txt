@@ -9273,3 +9273,4 @@
 2026-07-25 20:13:34	Cedar Waxwing	92	Bombycilla cedrorum
 2026-07-25 20:14:08	Cedar Waxwing	73	Bombycilla cedrorum
 2026-07-25 20:18:55	Cedar Waxwing	81	Bombycilla cedrorum
+2026-07-25 20:18:55	Golden-crowned Kinglet	75	Regulus satrapa
