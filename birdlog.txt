@@ -9382,3 +9382,4 @@
 2026-07-26 06:59:40	Belted Kingfisher	91	Megaceryle alcyon
 2026-07-26 07:03:25	Belted Kingfisher	78	Megaceryle alcyon
 2026-07-26 07:03:58	Belted Kingfisher	85	Megaceryle alcyon
+2026-07-26 07:08:14	Downy Woodpecker	83	Dryobates pubescens
