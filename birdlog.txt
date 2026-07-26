@@ -9483,3 +9483,4 @@
 2026-07-26 14:24:54	White-breasted Nuthatch	78	Sitta carolinensis
 2026-07-26 14:31:49	Downy Woodpecker	80	Dryobates pubescens
 2026-07-26 16:23:20	Downy Woodpecker	72	Dryobates pubescens
+2026-07-26 16:45:23	House Finch	80	Haemorhous mexicanus
