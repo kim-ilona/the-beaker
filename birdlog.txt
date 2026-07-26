@@ -9464,3 +9464,4 @@
 2026-07-26 11:30:20	Cedar Waxwing	87	Bombycilla cedrorum
 2026-07-26 11:36:13	Brown Creeper	73	Certhia americana
 2026-07-26 11:40:28	Hairy Woodpecker	78	Dryobates villosus
+2026-07-26 11:41:33	House Finch	75	Haemorhous mexicanus
