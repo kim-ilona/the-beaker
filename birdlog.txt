@@ -9263,3 +9263,4 @@
 2026-07-25 19:54:45	Downy Woodpecker	88	Dryobates pubescens
 2026-07-25 19:56:24	Cedar Waxwing	85	Bombycilla cedrorum
 2026-07-25 20:02:47	Cedar Waxwing	85	Bombycilla cedrorum
+2026-07-25 20:02:47	Cedar Waxwing	77	Bombycilla cedrorum
