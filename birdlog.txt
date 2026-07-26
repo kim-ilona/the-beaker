@@ -9481,3 +9481,4 @@
 2026-07-26 13:06:41	Eastern Phoebe	79	Sayornis phoebe
 2026-07-26 13:53:56	House Sparrow	71	Passer domesticus
 2026-07-26 14:24:54	White-breasted Nuthatch	78	Sitta carolinensis
+2026-07-26 14:31:49	Downy Woodpecker	80	Dryobates pubescens
