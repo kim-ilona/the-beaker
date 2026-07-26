@@ -9463,3 +9463,4 @@
 2026-07-26 11:11:15	Common Grackle	74	Quiscalus quiscula
 2026-07-26 11:30:20	Cedar Waxwing	87	Bombycilla cedrorum
 2026-07-26 11:36:13	Brown Creeper	73	Certhia americana
+2026-07-26 11:40:28	Hairy Woodpecker	78	Dryobates villosus
