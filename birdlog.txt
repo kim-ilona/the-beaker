@@ -9384,3 +9384,4 @@
 2026-07-26 07:03:58	Belted Kingfisher	85	Megaceryle alcyon
 2026-07-26 07:08:14	Downy Woodpecker	83	Dryobates pubescens
 2026-07-26 07:13:00	House Wren	80	Troglodytes aedon
+2026-07-26 07:13:34	Cedar Waxwing	99	Bombycilla cedrorum
