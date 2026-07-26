@@ -9402,3 +9402,4 @@
 2026-07-26 07:55:29	Downy Woodpecker	88	Dryobates pubescens
 2026-07-26 08:02:07	Cedar Waxwing	79	Bombycilla cedrorum
 2026-07-26 08:02:42	Cedar Waxwing	81	Bombycilla cedrorum
+2026-07-26 08:03:49	Warbling Vireo	90	Vireo gilvus
