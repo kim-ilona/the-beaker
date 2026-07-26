@@ -9429,3 +9429,4 @@
 2026-07-26 08:59:04	Cedar Waxwing	74	Bombycilla cedrorum
 2026-07-26 08:59:04	Cedar Waxwing	95	Bombycilla cedrorum
 2026-07-26 09:00:14	Cedar Waxwing	81	Bombycilla cedrorum
+2026-07-26 09:00:14	Cedar Waxwing	72	Bombycilla cedrorum
