@@ -9445,3 +9445,4 @@
 2026-07-26 09:44:00	Cedar Waxwing	79	Bombycilla cedrorum
 2026-07-26 10:05:29	Common Nighthawk	80	Chordeiles minor
 2026-07-26 10:08:48	Common Grackle	78	Quiscalus quiscula
+2026-07-26 10:37:05	Hairy Woodpecker	95	Dryobates villosus
