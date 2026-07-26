@@ -9460,3 +9460,4 @@
 2026-07-26 10:51:45	Downy Woodpecker	87	Dryobates pubescens
 2026-07-26 10:54:55	Downy Woodpecker	87	Dryobates pubescens
 2026-07-26 11:09:07	Song Sparrow	74	Melospiza melodia
+2026-07-26 11:11:15	Common Grackle	74	Quiscalus quiscula
