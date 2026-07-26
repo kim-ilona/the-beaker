@@ -9432,3 +9432,4 @@
 2026-07-26 09:00:14	Cedar Waxwing	72	Bombycilla cedrorum
 2026-07-26 09:01:23	Cedar Waxwing	72	Bombycilla cedrorum
 2026-07-26 09:01:23	Cedar Waxwing	73	Bombycilla cedrorum
+2026-07-26 09:12:29	Song Sparrow	72	Melospiza melodia
