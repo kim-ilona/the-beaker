@@ -9450,3 +9450,4 @@
 2026-07-26 10:38:13	Hairy Woodpecker	90	Dryobates villosus
 2026-07-26 10:38:47	Hairy Woodpecker	82	Dryobates villosus
 2026-07-26 10:39:20	Hairy Woodpecker	73	Dryobates villosus
+2026-07-26 10:39:20	Hairy Woodpecker	78	Dryobates villosus
