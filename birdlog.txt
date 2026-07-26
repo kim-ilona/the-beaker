@@ -9440,3 +9440,4 @@
 2026-07-26 09:28:25	Cedar Waxwing	77	Bombycilla cedrorum
 2026-07-26 09:28:25	Cedar Waxwing	73	Bombycilla cedrorum
 2026-07-26 09:28:25	Cedar Waxwing	97	Bombycilla cedrorum
+2026-07-26 09:36:13	Brown Creeper	75	Certhia americana
