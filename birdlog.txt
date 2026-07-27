@@ -9543,3 +9543,4 @@
 2026-07-27 16:39:05	Song Sparrow	90	Melospiza melodia
 2026-07-27 17:10:39	Blue-gray Gnatcatcher	89	Polioptila caerulea
 2026-07-27 17:13:57	Northern Cardinal	85	Cardinalis cardinalis
+2026-07-27 17:36:54	Downy Woodpecker	99	Dryobates pubescens
