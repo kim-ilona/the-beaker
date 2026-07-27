@@ -9540,3 +9540,4 @@
 2026-07-27 13:45:59	House Finch	70	Haemorhous mexicanus
 2026-07-27 14:41:44	American Goldfinch	73	Spinus tristis
 2026-07-27 16:26:31	Downy Woodpecker	93	Dryobates pubescens
+2026-07-27 16:39:05	Song Sparrow	90	Melospiza melodia
