@@ -9516,3 +9516,4 @@
 2026-07-27 07:08:55	House Finch	84	Haemorhous mexicanus
 2026-07-27 07:09:30	House Finch	88	Haemorhous mexicanus
 2026-07-27 07:10:03	House Finch	95	Haemorhous mexicanus
+2026-07-27 07:30:12	Hairy Woodpecker	86	Dryobates villosus
