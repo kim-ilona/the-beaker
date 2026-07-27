@@ -9541,3 +9541,4 @@
 2026-07-27 14:41:44	American Goldfinch	73	Spinus tristis
 2026-07-27 16:26:31	Downy Woodpecker	93	Dryobates pubescens
 2026-07-27 16:39:05	Song Sparrow	90	Melospiza melodia
+2026-07-27 17:10:39	Blue-gray Gnatcatcher	89	Polioptila caerulea
