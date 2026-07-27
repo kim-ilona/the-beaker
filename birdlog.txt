@@ -9539,3 +9539,4 @@
 2026-07-27 13:45:59	House Finch	80	Haemorhous mexicanus
 2026-07-27 13:45:59	House Finch	70	Haemorhous mexicanus
 2026-07-27 14:41:44	American Goldfinch	73	Spinus tristis
+2026-07-27 16:26:31	Downy Woodpecker	93	Dryobates pubescens
