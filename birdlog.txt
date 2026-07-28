@@ -9573,3 +9573,4 @@
 2026-07-28 10:00:22	House Finch	72	Haemorhous mexicanus
 2026-07-28 10:00:56	House Finch	84	Haemorhous mexicanus
 2026-07-28 11:18:56	Downy Woodpecker	72	Dryobates pubescens
+2026-07-28 11:31:03	Downy Woodpecker	91	Dryobates pubescens
