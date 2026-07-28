@@ -9562,3 +9562,4 @@
 2026-07-28 07:23:01	Downy Woodpecker	98	Dryobates pubescens
 2026-07-28 07:23:34	Downy Woodpecker	86	Dryobates pubescens
 2026-07-28 09:16:22	Downy Woodpecker	79	Dryobates pubescens
+2026-07-28 09:21:40	Broad-winged Hawk	99	Buteo platypterus
