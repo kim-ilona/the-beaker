@@ -9577,3 +9577,4 @@
 2026-07-28 11:35:52	Common Grackle	78	Quiscalus quiscula
 2026-07-28 11:35:52	Common Grackle	91	Quiscalus quiscula
 2026-07-28 11:47:10	Least Flycatcher	78	Empidonax minimus
+2026-07-28 12:06:19	Downy Woodpecker	74	Dryobates pubescens
