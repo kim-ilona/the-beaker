@@ -9558,3 +9558,4 @@
 2026-07-28 05:39:24	Northern Cardinal	93	Cardinalis cardinalis
 2026-07-28 05:39:58	Northern Cardinal	74	Cardinalis cardinalis
 2026-07-28 07:00:57	Hairy Woodpecker	72	Dryobates villosus
+2026-07-28 07:21:25	Downy Woodpecker	83	Dryobates pubescens
