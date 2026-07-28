@@ -9565,3 +9565,4 @@
 2026-07-28 09:21:40	Broad-winged Hawk	99	Buteo platypterus
 2026-07-28 09:27:27	Downy Woodpecker	93	Dryobates pubescens
 2026-07-28 09:27:27	Downy Woodpecker	86	Dryobates pubescens
+2026-07-28 09:32:13	Northern Cardinal	81	Cardinalis cardinalis
