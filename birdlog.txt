@@ -9587,3 +9587,4 @@
 2026-07-28 12:13:53	Downy Woodpecker	89	Dryobates pubescens
 2026-07-28 12:13:53	Downy Woodpecker	79	Dryobates pubescens
 2026-07-28 12:14:27	Downy Woodpecker	93	Dryobates pubescens
+2026-07-28 12:14:27	Downy Woodpecker	83	Dryobates pubescens
