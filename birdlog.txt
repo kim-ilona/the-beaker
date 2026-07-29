@@ -9594,3 +9594,4 @@
 2026-07-28 19:38:47	Downy Woodpecker	83	Dryobates pubescens
 2026-07-28 22:11:01	Rock Pigeon	70	Columba livia
 2026-07-28 23:19:53	Green-winged Teal	72	Anas crecca
+2026-07-29 06:04:19	Cedar Waxwing	93	Bombycilla cedrorum
