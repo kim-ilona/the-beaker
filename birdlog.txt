@@ -9592,3 +9592,4 @@
 2026-07-28 14:23:44	Downy Woodpecker	94	Dryobates pubescens
 2026-07-28 17:36:41	Cedar Waxwing	76	Bombycilla cedrorum
 2026-07-28 19:38:47	Downy Woodpecker	83	Dryobates pubescens
+2026-07-28 22:11:01	Rock Pigeon	70	Columba livia
