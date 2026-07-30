@@ -9636,3 +9636,4 @@
 2026-07-30 19:12:03	Rock Pigeon	80	Columba livia
 2026-07-30 19:17:57	Eastern Kingbird	74	Tyrannus tyrannus
 2026-07-30 19:21:12	Downy Woodpecker	77	Dryobates pubescens
+2026-07-30 19:47:22	Downy Woodpecker	94	Dryobates pubescens
