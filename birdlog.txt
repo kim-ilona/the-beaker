@@ -9607,3 +9607,4 @@
 2026-07-29 16:02:37	Cedar Waxwing	94	Bombycilla cedrorum
 2026-07-29 22:00:43	Green-winged Teal	85	Anas crecca
 2026-07-30 10:15:47	House Finch	71	Haemorhous mexicanus
+2026-07-30 13:00:45	American Goldfinch	90	Spinus tristis
