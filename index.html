@@ -301,7 +301,8 @@ td { padding: var(--space-4) var(--space-5); font-size: var(--text-sm); vertical
 /* Species card play button */
 
 .species-audio-btn {
-  padding: var(--space-2) var(--space-5);
+  margin-top: var(--space-3);
+  padding: var(--space-3) var(--space-5);
   border-radius: var(--radius-full);
   font-size: var(--text-xs); font-weight: 600;
   letter-spacing: 0.04em;
@@ -650,7 +651,6 @@ code.inline { font-size: var(--text-xs); background: var(--color-surface-2); bor
         <div class="species-count">${count}</div>
         <div class="species-common">${name}</div>
         <div class="species-sci">${b.scientific}</div>
-        <div class="species-best">Best: ${Math.round(b.pct)}% confidence</div>
         <button class="species-audio-btn" onclick="playBirdAudio(this, '${name}')">Listen</button>
       </div>`;
     }).join('');
