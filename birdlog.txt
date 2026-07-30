@@ -9621,3 +9621,4 @@
 2026-07-30 16:07:58	Hairy Woodpecker	76	Dryobates villosus
 2026-07-30 16:20:19	American Goldfinch	76	Spinus tristis
 2026-07-30 17:18:30	American Goldfinch	79	Spinus tristis
+2026-07-30 17:19:04	American Goldfinch	71	Spinus tristis
