@@ -9670,3 +9670,4 @@
 2026-07-31 09:19:38	Downy Woodpecker	80	Dryobates pubescens
 2026-07-31 09:28:08	Common Grackle	81	Quiscalus quiscula
 2026-07-31 10:22:11	Common Grackle	81	Quiscalus quiscula
+2026-07-31 10:25:52	Cedar Waxwing	92	Bombycilla cedrorum
