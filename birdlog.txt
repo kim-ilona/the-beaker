@@ -9678,3 +9678,4 @@
 2026-07-31 11:06:39	Gray Catbird	84	Dumetella carolinensis
 2026-07-31 11:22:04	Downy Woodpecker	83	Dryobates pubescens
 2026-07-31 12:26:52	Belted Kingfisher	76	Megaceryle alcyon
+2026-07-31 12:27:26	Belted Kingfisher	98	Megaceryle alcyon
