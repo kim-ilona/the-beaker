@@ -9690,3 +9690,4 @@
 2026-07-31 16:19:37	House Finch	70	Haemorhous mexicanus
 2026-07-31 17:58:05	Eastern Phoebe	70	Sayornis phoebe
 2026-07-31 18:03:23	American Goldfinch	77	Spinus tristis
+2026-07-31 18:03:23	American Goldfinch	91	Spinus tristis
