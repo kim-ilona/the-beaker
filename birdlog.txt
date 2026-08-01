@@ -9762,3 +9762,4 @@
 2026-08-01 15:00:26	American Goldfinch	92	Spinus tristis
 2026-08-01 15:11:07	Belted Kingfisher	96	Megaceryle alcyon
 2026-08-01 15:27:06	American Goldfinch	78	Spinus tristis
+2026-08-01 16:00:38	Rose-breasted Grosbeak	76	Pheucticus ludovicianus
