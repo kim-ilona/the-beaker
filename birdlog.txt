@@ -9731,3 +9731,4 @@
 2026-08-01 10:53:47	American Goldfinch	84	Spinus tristis
 2026-08-01 10:53:47	American Goldfinch	73	Spinus tristis
 2026-08-01 11:01:16	Golden-crowned Kinglet	77	Regulus satrapa
+2026-08-01 11:04:29	Downy Woodpecker	79	Dryobates pubescens
