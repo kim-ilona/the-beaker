@@ -9776,3 +9776,4 @@
 2026-08-01 18:35:53	Belted Kingfisher	100	Megaceryle alcyon
 2026-08-01 18:35:53	Belted Kingfisher	99	Megaceryle alcyon
 2026-08-01 18:48:10	Belted Kingfisher	97	Megaceryle alcyon
+2026-08-01 18:54:34	House Finch	91	Haemorhous mexicanus
