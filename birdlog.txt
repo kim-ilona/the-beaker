@@ -9756,3 +9756,4 @@
 2026-08-01 13:11:27	Belted Kingfisher	99	Megaceryle alcyon
 2026-08-01 13:21:34	Broad-winged Hawk	80	Buteo platypterus
 2026-08-01 13:39:40	American Goldfinch	84	Spinus tristis
+2026-08-01 13:42:52	Cedar Waxwing	85	Bombycilla cedrorum
