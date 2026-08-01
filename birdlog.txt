@@ -9766,3 +9766,4 @@
 2026-08-01 16:17:49	Belted Kingfisher	93	Megaceryle alcyon
 2026-08-01 16:24:12	Common Nighthawk	95	Chordeiles minor
 2026-08-01 16:28:27	Common Nighthawk	73	Chordeiles minor
+2026-08-01 16:43:45	Downy Woodpecker	76	Dryobates pubescens
