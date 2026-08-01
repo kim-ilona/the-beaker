@@ -9725,3 +9725,4 @@
 2026-08-01 09:21:30	Song Sparrow	87	Melospiza melodia
 2026-08-01 09:30:22	Downy Woodpecker	87	Dryobates pubescens
 2026-08-01 10:22:17	Northern Cardinal	86	Cardinalis cardinalis
+2026-08-01 10:22:53	Northern Cardinal	87	Cardinalis cardinalis
