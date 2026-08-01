@@ -9753,3 +9753,4 @@
 2026-08-01 12:58:14	Gray Catbird	71	Dumetella carolinensis
 2026-08-01 12:58:14	Gray Catbird	72	Dumetella carolinensis
 2026-08-01 13:03:32	Common Grackle	84	Quiscalus quiscula
+2026-08-01 13:11:27	Belted Kingfisher	99	Megaceryle alcyon
