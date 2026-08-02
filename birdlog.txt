@@ -9798,3 +9798,4 @@
 2026-08-02 16:05:30	Belted Kingfisher	91	Megaceryle alcyon
 2026-08-02 16:17:25	Northern Cardinal	78	Cardinalis cardinalis
 2026-08-02 16:19:03	Mallard	73	Anas platyrhynchos
+2026-08-02 19:12:58	Wild Turkey	80	Meleagris gallopavo
