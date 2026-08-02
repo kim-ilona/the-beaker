@@ -9788,3 +9788,4 @@
 2026-08-02 06:42:40	Downy Woodpecker	88	Dryobates pubescens
 2026-08-02 06:42:40	Downy Woodpecker	93	Dryobates pubescens
 2026-08-02 06:58:34	American Goldfinch	81	Spinus tristis
+2026-08-02 07:55:00	Belted Kingfisher	86	Megaceryle alcyon
