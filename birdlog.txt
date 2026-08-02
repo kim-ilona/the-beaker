@@ -9796,3 +9796,4 @@
 2026-08-02 09:56:59	Downy Woodpecker	75	Dryobates pubescens
 2026-08-02 14:06:55	Northern Cardinal	84	Cardinalis cardinalis
 2026-08-02 16:05:30	Belted Kingfisher	91	Megaceryle alcyon
+2026-08-02 16:17:25	Northern Cardinal	78	Cardinalis cardinalis
