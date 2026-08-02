@@ -9781,3 +9781,4 @@
 2026-08-01 19:48:49	Belted Kingfisher	72	Megaceryle alcyon
 2026-08-02 00:30:22	Great Blue Heron	75	Ardea herodias
 2026-08-02 02:04:09	Pileated Woodpecker	77	Dryocopus pileatus
+2026-08-02 05:53:27	Northern Cardinal	76	Cardinalis cardinalis
