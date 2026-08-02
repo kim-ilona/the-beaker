@@ -9793,3 +9793,4 @@
 2026-08-02 09:02:40	Downy Woodpecker	95	Dryobates pubescens
 2026-08-02 09:10:02	Blue-gray Gnatcatcher	96	Polioptila caerulea
 2026-08-02 09:47:34	Cedar Waxwing	98	Bombycilla cedrorum
+2026-08-02 09:56:59	Downy Woodpecker	75	Dryobates pubescens
