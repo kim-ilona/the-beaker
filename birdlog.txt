@@ -9794,3 +9794,4 @@
 2026-08-02 09:10:02	Blue-gray Gnatcatcher	96	Polioptila caerulea
 2026-08-02 09:47:34	Cedar Waxwing	98	Bombycilla cedrorum
 2026-08-02 09:56:59	Downy Woodpecker	75	Dryobates pubescens
+2026-08-02 14:06:55	Northern Cardinal	84	Cardinalis cardinalis
