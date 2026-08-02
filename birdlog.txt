@@ -9790,3 +9790,4 @@
 2026-08-02 06:58:34	American Goldfinch	81	Spinus tristis
 2026-08-02 07:55:00	Belted Kingfisher	86	Megaceryle alcyon
 2026-08-02 08:35:51	Northern Cardinal	72	Cardinalis cardinalis
+2026-08-02 09:02:40	Downy Woodpecker	95	Dryobates pubescens
