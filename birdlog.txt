@@ -9786,3 +9786,4 @@
 2026-08-02 05:58:45	Northern Cardinal	74	Cardinalis cardinalis
 2026-08-02 06:38:56	American Goldfinch	84	Spinus tristis
 2026-08-02 06:42:40	Downy Woodpecker	88	Dryobates pubescens
+2026-08-02 06:42:40	Downy Woodpecker	93	Dryobates pubescens
