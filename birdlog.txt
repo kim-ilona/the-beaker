@@ -9810,3 +9810,4 @@
 2026-08-03 12:41:10	Eastern Kingbird	91	Tyrannus tyrannus
 2026-08-03 12:42:50	Eastern Kingbird	85	Tyrannus tyrannus
 2026-08-03 12:42:50	Eastern Kingbird	86	Tyrannus tyrannus
+2026-08-03 12:55:13	American Goldfinch	79	Spinus tristis
