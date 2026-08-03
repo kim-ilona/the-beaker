@@ -9808,3 +9808,4 @@
 2026-08-03 12:40:01	Eastern Kingbird	91	Tyrannus tyrannus
 2026-08-03 12:41:10	Eastern Kingbird	72	Tyrannus tyrannus
 2026-08-03 12:41:10	Eastern Kingbird	91	Tyrannus tyrannus
+2026-08-03 12:42:50	Eastern Kingbird	85	Tyrannus tyrannus
