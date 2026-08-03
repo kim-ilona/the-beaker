@@ -9824,3 +9824,4 @@
 2026-08-03 14:21:24	House Finch	92	Haemorhous mexicanus
 2026-08-03 14:26:11	House Finch	82	Haemorhous mexicanus
 2026-08-03 15:05:25	Northern Cardinal	71	Cardinalis cardinalis
+2026-08-03 15:50:26	Belted Kingfisher	99	Megaceryle alcyon
