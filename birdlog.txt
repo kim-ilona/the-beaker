@@ -9819,3 +9819,4 @@
 2026-08-03 14:17:27	House Finch	76	Haemorhous mexicanus
 2026-08-03 14:18:04	House Finch	76	Haemorhous mexicanus
 2026-08-03 14:18:39	House Finch	87	Haemorhous mexicanus
+2026-08-03 14:19:12	House Finch	82	Haemorhous mexicanus
