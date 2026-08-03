@@ -9799,3 +9799,4 @@
 2026-08-02 16:17:25	Northern Cardinal	78	Cardinalis cardinalis
 2026-08-02 16:19:03	Mallard	73	Anas platyrhynchos
 2026-08-02 19:12:58	Wild Turkey	80	Meleagris gallopavo
+2026-08-03 09:21:55	American Goldfinch	89	Spinus tristis
