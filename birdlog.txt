@@ -9942,3 +9942,4 @@
 2026-08-04 11:11:32	Northern Cardinal	74	Cardinalis cardinalis
 2026-08-04 11:13:13	Northern Cardinal	82	Cardinalis cardinalis
 2026-08-04 11:19:08	Northern Cardinal	77	Cardinalis cardinalis
+2026-08-04 11:26:08	House Finch	96	Haemorhous mexicanus
