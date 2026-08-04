@@ -9970,3 +9970,4 @@
 2026-08-04 13:26:37	House Finch	70	Haemorhous mexicanus
 2026-08-04 13:27:12	House Finch	76	Haemorhous mexicanus
 2026-08-04 13:46:08	Downy Woodpecker	72	Dryobates pubescens
+2026-08-04 13:48:19	Belted Kingfisher	85	Megaceryle alcyon
