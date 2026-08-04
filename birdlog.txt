@@ -9849,3 +9849,4 @@
 2026-08-04 06:45:32	Osprey	72	Pandion haliaetus
 2026-08-04 06:55:03	Downy Woodpecker	78	Dryobates pubescens
 2026-08-04 07:00:23	American Goldfinch	84	Spinus tristis
+2026-08-04 07:00:57	American Goldfinch	98	Spinus tristis
