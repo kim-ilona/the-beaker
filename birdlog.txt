@@ -10040,3 +10040,4 @@
 2026-08-05 05:51:19	Northern Cardinal	77	Cardinalis cardinalis
 2026-08-05 06:07:12	American Goldfinch	78	Spinus tristis
 2026-08-05 06:23:04	Carolina Wren	98	Thryothorus ludovicianus
+2026-08-05 06:44:37	Hairy Woodpecker	76	Dryobates villosus
