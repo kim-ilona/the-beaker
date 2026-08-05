@@ -10067,3 +10067,4 @@
 2026-08-05 09:03:10	American Goldfinch	79	Spinus tristis
 2026-08-05 09:50:38	Northern Cardinal	85	Cardinalis cardinalis
 2026-08-05 09:50:38	Northern Cardinal	73	Cardinalis cardinalis
+2026-08-05 10:07:12	Eastern Kingbird	74	Tyrannus tyrannus
