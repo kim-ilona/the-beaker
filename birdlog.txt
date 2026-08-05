@@ -10082,3 +10082,4 @@
 2026-08-05 12:18:17	Belted Kingfisher	98	Megaceryle alcyon
 2026-08-05 12:38:11	American Goldfinch	70	Spinus tristis
 2026-08-05 12:38:11	American Goldfinch	70	Spinus tristis
+2026-08-05 12:46:18	Northern Cardinal	71	Cardinalis cardinalis
