@@ -10104,3 +10104,4 @@
 2026-08-05 18:09:59	Northern Cardinal	76	Cardinalis cardinalis
 2026-08-05 18:35:50	Downy Woodpecker	83	Dryobates pubescens
 2026-08-05 18:58:51	House Finch	77	Haemorhous mexicanus
+2026-08-05 18:59:24	Green-winged Teal	77	Anas crecca
