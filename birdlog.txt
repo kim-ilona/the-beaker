@@ -10083,3 +10083,4 @@
 2026-08-05 12:38:11	American Goldfinch	70	Spinus tristis
 2026-08-05 12:38:11	American Goldfinch	70	Spinus tristis
 2026-08-05 12:46:18	Northern Cardinal	71	Cardinalis cardinalis
+2026-08-05 12:46:52	Northern Cardinal	86	Cardinalis cardinalis
