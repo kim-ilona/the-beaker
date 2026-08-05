@@ -10097,3 +10097,4 @@
 2026-08-05 16:27:19	Common Grackle	88	Quiscalus quiscula
 2026-08-05 16:27:19	Common Grackle	83	Quiscalus quiscula
 2026-08-05 16:27:19	Common Grackle	71	Quiscalus quiscula
+2026-08-05 16:34:25	Downy Woodpecker	98	Dryobates pubescens
