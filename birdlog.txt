@@ -10045,3 +10045,4 @@
 2026-08-05 06:53:36	Downy Woodpecker	96	Dryobates pubescens
 2026-08-05 07:01:35	Downy Woodpecker	77	Dryobates pubescens
 2026-08-05 07:01:35	Downy Woodpecker	96	Dryobates pubescens
+2026-08-05 07:01:35	Hairy Woodpecker	94	Dryobates villosus
