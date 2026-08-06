@@ -10165,3 +10165,4 @@
 2026-08-06 10:16:38	Eastern Kingbird	77	Tyrannus tyrannus
 2026-08-06 10:23:01	Belted Kingfisher	96	Megaceryle alcyon
 2026-08-06 10:50:15	Cedar Waxwing	86	Bombycilla cedrorum
+2026-08-06 10:52:25	American Goldfinch	75	Spinus tristis
