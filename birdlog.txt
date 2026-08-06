@@ -10137,3 +10137,4 @@
 2026-08-06 06:55:06	Common Grackle	76	Quiscalus quiscula
 2026-08-06 07:58:16	Downy Woodpecker	98	Dryobates pubescens
 2026-08-06 08:00:25	Downy Woodpecker	83	Dryobates pubescens
+2026-08-06 08:10:00	Northern Cardinal	72	Cardinalis cardinalis
