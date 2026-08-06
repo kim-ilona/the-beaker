@@ -10135,3 +10135,4 @@
 2026-08-06 05:47:57	Northern Cardinal	75	Cardinalis cardinalis
 2026-08-06 05:58:41	Carolina Wren	73	Thryothorus ludovicianus
 2026-08-06 06:55:06	Common Grackle	76	Quiscalus quiscula
+2026-08-06 07:58:16	Downy Woodpecker	98	Dryobates pubescens
