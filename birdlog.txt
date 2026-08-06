@@ -10189,3 +10189,4 @@
 2026-08-06 17:36:09	American Goldfinch	83	Spinus tristis
 2026-08-06 17:50:58	American Goldfinch	76	Spinus tristis
 2026-08-06 18:36:51	Green-winged Teal	92	Anas crecca
+2026-08-06 19:24:35	Northern Cardinal	78	Cardinalis cardinalis
