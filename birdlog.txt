@@ -10133,3 +10133,4 @@
 2026-08-06 05:47:57	Northern Cardinal	90	Cardinalis cardinalis
 2026-08-06 05:47:57	Northern Cardinal	87	Cardinalis cardinalis
 2026-08-06 05:47:57	Northern Cardinal	75	Cardinalis cardinalis
+2026-08-06 05:58:41	Carolina Wren	73	Thryothorus ludovicianus
