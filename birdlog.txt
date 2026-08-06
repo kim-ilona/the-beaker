@@ -10187,3 +10187,4 @@
 2026-08-06 12:25:50	House Sparrow	74	Passer domesticus
 2026-08-06 12:26:25	House Sparrow	71	Passer domesticus
 2026-08-06 17:36:09	American Goldfinch	83	Spinus tristis
+2026-08-06 17:50:58	American Goldfinch	76	Spinus tristis
