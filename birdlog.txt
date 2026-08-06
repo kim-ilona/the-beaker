@@ -10184,3 +10184,4 @@
 2026-08-06 12:01:41	House Finch	73	Haemorhous mexicanus
 2026-08-06 12:24:44	House Sparrow	78	Passer domesticus
 2026-08-06 12:25:50	House Sparrow	80	Passer domesticus
+2026-08-06 12:25:50	House Sparrow	74	Passer domesticus
