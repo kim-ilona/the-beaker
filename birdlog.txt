@@ -10226,3 +10226,4 @@
 2026-08-07 05:54:58	Northern Cardinal	92	Cardinalis cardinalis
 2026-08-07 06:46:41	Cedar Waxwing	78	Bombycilla cedrorum
 2026-08-07 07:20:05	Cedar Waxwing	89	Bombycilla cedrorum
+2026-08-07 08:21:06	Downy Woodpecker	88	Dryobates pubescens
