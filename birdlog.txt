@@ -10276,3 +10276,4 @@
 2026-08-07 17:52:35	Downy Woodpecker	85	Dryobates pubescens
 2026-08-07 17:59:32	Belted Kingfisher	81	Megaceryle alcyon
 2026-08-07 18:09:05	Downy Woodpecker	95	Dryobates pubescens
+2026-08-07 18:14:27	Cedar Waxwing	73	Bombycilla cedrorum
