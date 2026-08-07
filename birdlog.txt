@@ -10202,3 +10202,4 @@
 2026-08-06 20:30:41	Northern Cardinal	77	Cardinalis cardinalis
 2026-08-06 20:42:52	Northern Cardinal	73	Cardinalis cardinalis
 2026-08-06 20:42:52	Northern Cardinal	74	Cardinalis cardinalis
+2026-08-06 20:42:52	Northern Cardinal	83	Cardinalis cardinalis
