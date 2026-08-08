@@ -10281,3 +10281,4 @@
 2026-08-07 19:22:32	Downy Woodpecker	93	Dryobates pubescens
 2026-08-07 19:27:21	Downy Woodpecker	95	Dryobates pubescens
 2026-08-08 05:44:52	Northern Cardinal	77	Cardinalis cardinalis
+2026-08-08 05:45:27	Northern Cardinal	80	Cardinalis cardinalis
