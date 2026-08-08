@@ -10325,3 +10325,4 @@
 2026-08-08 11:23:41	Northern Cardinal	71	Cardinalis cardinalis
 2026-08-08 11:48:49	American Goldfinch	82	Spinus tristis
 2026-08-08 12:58:00	American Goldfinch	72	Spinus tristis
+2026-08-08 13:15:09	Black-capped Chickadee	70	Poecile atricapillus
