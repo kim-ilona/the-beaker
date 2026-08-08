@@ -10315,3 +10315,4 @@
 2026-08-08 08:42:19	Cedar Waxwing	86	Bombycilla cedrorum
 2026-08-08 08:53:24	American Goldfinch	78	Spinus tristis
 2026-08-08 08:54:29	Belted Kingfisher	81	Megaceryle alcyon
+2026-08-08 09:02:21	Northern Parula	80	Setophaga americana
