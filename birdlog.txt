@@ -10310,3 +10310,4 @@
 2026-08-08 06:45:57	Eastern Kingbird	92	Tyrannus tyrannus
 2026-08-08 06:54:27	House Finch	70	Haemorhous mexicanus
 2026-08-08 07:42:28	American Goldfinch	71	Spinus tristis
+2026-08-08 08:24:14	Downy Woodpecker	98	Dryobates pubescens
