@@ -10434,3 +10434,4 @@
 2026-08-09 15:14:13	American Goldfinch	91	Spinus tristis
 2026-08-09 15:35:43	American Goldfinch	71	Spinus tristis
 2026-08-09 15:53:05	Belted Kingfisher	95	Megaceryle alcyon
+2026-08-09 16:05:34	House Finch	78	Haemorhous mexicanus
