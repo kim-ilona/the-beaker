@@ -10417,3 +10417,4 @@
 2026-08-09 11:42:36	Cedar Waxwing	70	Bombycilla cedrorum
 2026-08-09 12:18:21	Hairy Woodpecker	72	Dryobates villosus
 2026-08-09 12:26:56	Red-breasted Nuthatch	71	Sitta canadensis
+2026-08-09 13:13:33	Belted Kingfisher	99	Megaceryle alcyon
