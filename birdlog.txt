@@ -10415,3 +10415,4 @@
 2026-08-09 11:35:38	Downy Woodpecker	93	Dryobates pubescens
 2026-08-09 11:38:52	Downy Woodpecker	88	Dryobates pubescens
 2026-08-09 11:42:36	Cedar Waxwing	70	Bombycilla cedrorum
+2026-08-09 12:18:21	Hairy Woodpecker	72	Dryobates villosus
