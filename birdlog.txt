@@ -10392,3 +10392,4 @@
 2026-08-09 08:15:25	Northern Cardinal	73	Cardinalis cardinalis
 2026-08-09 08:16:31	Carolina Wren	84	Thryothorus ludovicianus
 2026-08-09 08:16:31	Northern Cardinal	77	Cardinalis cardinalis
+2026-08-09 08:17:39	Downy Woodpecker	94	Dryobates pubescens
