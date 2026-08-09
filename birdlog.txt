@@ -10430,3 +10430,4 @@
 2026-08-09 14:21:00	Northern Cardinal	70	Cardinalis cardinalis
 2026-08-09 14:28:30	Northern Cardinal	73	Cardinalis cardinalis
 2026-08-09 14:35:30	Broad-winged Hawk	87	Buteo platypterus
+2026-08-09 14:57:06	Belted Kingfisher	83	Megaceryle alcyon
