@@ -10361,3 +10361,4 @@
 2026-08-09 05:53:45	Northern Cardinal	91	Cardinalis cardinalis
 2026-08-09 05:53:45	Northern Cardinal	88	Cardinalis cardinalis
 2026-08-09 05:53:45	Northern Cardinal	99	Cardinalis cardinalis
+2026-08-09 06:20:43	House Sparrow	90	Passer domesticus
