@@ -10369,3 +10369,4 @@
 2026-08-09 06:29:09	House Sparrow	99	Passer domesticus
 2026-08-09 06:29:49	House Sparrow	83	Passer domesticus
 2026-08-09 06:31:26	American Goldfinch	72	Spinus tristis
+2026-08-09 06:34:06	Northern Cardinal	73	Cardinalis cardinalis
