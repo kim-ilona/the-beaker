@@ -10432,3 +10432,4 @@
 2026-08-09 14:35:30	Broad-winged Hawk	87	Buteo platypterus
 2026-08-09 14:57:06	Belted Kingfisher	83	Megaceryle alcyon
 2026-08-09 15:14:13	American Goldfinch	91	Spinus tristis
+2026-08-09 15:35:43	American Goldfinch	71	Spinus tristis
