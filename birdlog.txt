@@ -10426,3 +10426,4 @@
 2026-08-09 14:06:03	Belted Kingfisher	83	Megaceryle alcyon
 2026-08-09 14:06:38	Belted Kingfisher	85	Megaceryle alcyon
 2026-08-09 14:07:43	Belted Kingfisher	98	Megaceryle alcyon
+2026-08-09 14:11:59	American Goldfinch	82	Spinus tristis
