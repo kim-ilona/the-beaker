@@ -10429,3 +10429,4 @@
 2026-08-09 14:11:59	American Goldfinch	82	Spinus tristis
 2026-08-09 14:21:00	Northern Cardinal	70	Cardinalis cardinalis
 2026-08-09 14:28:30	Northern Cardinal	73	Cardinalis cardinalis
+2026-08-09 14:35:30	Broad-winged Hawk	87	Buteo platypterus
