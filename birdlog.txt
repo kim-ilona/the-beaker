@@ -10335,3 +10335,4 @@
 2026-08-08 19:09:10	Belted Kingfisher	94	Megaceryle alcyon
 2026-08-08 19:21:25	American Goldfinch	86	Spinus tristis
 2026-08-08 19:40:43	Eastern Phoebe	71	Sayornis phoebe
+2026-08-09 05:44:28	Northern Cardinal	93	Cardinalis cardinalis
