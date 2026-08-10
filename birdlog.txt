@@ -10470,3 +10470,4 @@
 2026-08-10 08:00:51	American Goldfinch	70	Spinus tristis
 2026-08-10 08:34:25	American Goldfinch	87	Spinus tristis
 2026-08-10 08:34:25	American Goldfinch	93	Spinus tristis
+2026-08-10 08:58:17	American Redstart	73	Setophaga ruticilla
