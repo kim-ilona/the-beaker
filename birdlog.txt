@@ -10484,3 +10484,4 @@
 2026-08-10 16:26:46	Green-winged Teal	74	Anas crecca
 2026-08-10 16:55:32	Green-winged Teal	83	Anas crecca
 2026-08-10 17:07:55	Northern Cardinal	85	Cardinalis cardinalis
+2026-08-10 17:07:55	Northern Cardinal	74	Cardinalis cardinalis
