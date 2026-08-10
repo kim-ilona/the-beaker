@@ -10473,3 +10473,4 @@
 2026-08-10 08:58:17	American Redstart	73	Setophaga ruticilla
 2026-08-10 09:38:04	Green-winged Teal	95	Anas crecca
 2026-08-10 11:08:41	American Goldfinch	72	Spinus tristis
+2026-08-10 11:09:18	American Goldfinch	94	Spinus tristis
