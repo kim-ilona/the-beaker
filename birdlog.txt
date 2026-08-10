@@ -10459,3 +10459,4 @@
 2026-08-10 07:11:20	Northern Cardinal	92	Cardinalis cardinalis
 2026-08-10 07:11:20	Northern Cardinal	86	Cardinalis cardinalis
 2026-08-10 07:11:20	Northern Cardinal	89	Cardinalis cardinalis
+2026-08-10 07:12:00	Gray Catbird	80	Dumetella carolinensis
