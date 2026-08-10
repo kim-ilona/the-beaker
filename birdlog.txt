@@ -10477,3 +10477,4 @@
 2026-08-10 11:44:44	Eastern Phoebe	74	Sayornis phoebe
 2026-08-10 13:05:56	American Goldfinch	94	Spinus tristis
 2026-08-10 13:07:03	American Goldfinch	79	Spinus tristis
+2026-08-10 15:21:26	Northern Cardinal	73	Cardinalis cardinalis
