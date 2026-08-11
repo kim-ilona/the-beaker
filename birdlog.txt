@@ -10557,3 +10557,4 @@
 2026-08-11 09:13:53	Merlin	83	Falco columbarius
 2026-08-11 09:17:35	Downy Woodpecker	83	Dryobates pubescens
 2026-08-11 09:22:54	American Goldfinch	91	Spinus tristis
+2026-08-11 09:26:04	House Finch	73	Haemorhous mexicanus
