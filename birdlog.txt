@@ -10565,3 +10565,4 @@
 2026-08-11 13:32:23	Downy Woodpecker	81	Dryobates pubescens
 2026-08-11 14:49:25	American Goldfinch	88	Spinus tristis
 2026-08-11 14:49:59	Eastern Phoebe	87	Sayornis phoebe
+2026-08-11 15:06:53	Common Grackle	76	Quiscalus quiscula
